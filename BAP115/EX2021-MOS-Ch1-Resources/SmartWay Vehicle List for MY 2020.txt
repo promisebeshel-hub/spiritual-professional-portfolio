@@ -1,0 +1,408 @@
+Model	Displ	Cyl	Trans	Drive	Fuel	Cert Region	Stnd	Stnd Description	Underhood ID	Veh Class	Air Pollution Score	City MPG	Hwy MPG	Cmb MPG	Greenhouse Gas Score	SmartWay
+AUDI A3	2	4	AMS-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LVGAV02.0A3A	small car	7	27	36	30	7	Yes
+AUDI A3	2	4	AMS-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LVGAV02.0A3A	small car	7	27	36	30	7	Yes
+AUDI A4	2	4	AMS-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LVGAV02.0A7B	small car	5	27	35	30	7	Yes
+AUDI A4	2	4	AMS-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LVGAV02.0A7B	small car	5	27	35	30	7	Yes
+AUDI Q5	2	4	AMS-7	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVGAJ02.0A3P	small SUV	7	25/64	29/66	27/65	10	Elite
+AUDI Q5	2	4	AMS-7	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVGAJ02.0A3P	small SUV	7	25/64	29/66	27/65	10	Elite
+AUDI e-tron Sportback	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LVGAT00.0AZE	standard SUV	10	76	78	77	10	Elite
+AUDI e-tron Sportback	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LVGAT00.0AZE	standard SUV	10	76	78	77	10	Elite
+BMW 330i	2	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LBMXJ02.0B4X	small car	7	26	36	30	7	Yes
+BMW 330i	2	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LBMXJ02.0B4X	small car	7	26	36	30	7	Yes
+BMW 530e	2	4	SemiAuto-8	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LBMXJ02.0H30	small car	7	25/65	31/75	27/69	10	Elite
+BMW 530e	2	4	SemiAuto-8	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LBMXJ02.0H30	small car	7	25/65	31/75	27/69	10	Elite
+BMW 530e	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LBMXJ02.0H30	small car	7	23/62	29/68	25/65	10	Elite
+BMW 530e	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LBMXJ02.0H30	small car	7	23/62	29/68	25/65	10	Elite
+BMW X3 xDrive30e	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LBMXJ02.0H30	small SUV	7	21/59	27/61	24/60	9	Yes
+BMW X3 xDrive30e	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LBMXJ02.0H30	small SUV	7	21/59	27/61	24/60	9	Yes
+BMW i3	.6	2	Auto-1	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LBMXV00.6I3R	small car	7	30/107	31/93	31/100	10	Elite
+BMW i3	.6	2	Auto-1	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LBMXV00.6I3R	small car	7	30/107	31/93	31/100	10	Elite
+BMW i3	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LBMXV00.0I3B	small car	10	124	102	113	10	Elite
+BMW i3	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LBMXV00.0I3B	small car	10	124	102	113	10	Elite
+BMW i3s	.6	2	Auto-1	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LBMXV00.6I3R	small car	7	30/107	31/93	31/100	10	Elite
+BMW i3s	.6	2	Auto-1	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LBMXV00.6I3R	small car	7	30/107	31/93	31/100	10	Elite
+BMW i3s	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LBMXV00.0I3B	small car	10	124	102	113	10	Elite
+BMW i3s	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LBMXV00.0I3B	small car	10	124	102	113	10	Elite
+BUICK Encore GX	1.3	3	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LGMXV01.3545	small SUV	7	30	32	31	7	Yes
+BUICK Encore GX	1.3	3	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LGMXV01.3545	small SUV	7	30	32	31	7	Yes
+BYD e6	N/A	N/A	Auto-1	2WD	Electricity	FA	B1	Federal Tier 2 Bin 1	LBYDV0000001	small SUV	10	73	71	72	10	Elite
+CHEVROLET Bolt EV	N/A	N/A	CVT	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LGMXV00.0002	station wagon	10	127	108	118	10	Elite
+CHEVROLET Bolt EV	N/A	N/A	CVT	2WD	Electricity	CA	ZEV	California ZEV	LGMXV00.0002	station wagon	10	127	108	118	10	Elite
+CHEVROLET Malibu	1.5	4	CVT	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LGMXV01.5002	midsize car	6	29	36	32	7	Yes
+CHEVROLET Malibu	1.5	4	CVT	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LGMXV01.5002	midsize car	6	29	36	32	7	Yes
+CHEVROLET Malibu	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LGMXV01.5010	midsize car	7	29	36	32	7	Yes
+CHEVROLET Malibu	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LGMXV01.5010	midsize car	7	29	36	32	7	Yes
+CHEVROLET Spark	1.4	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LGMXV01.4050	small car	5	30	38	33	7	Yes
+CHEVROLET Spark	1.4	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LGMXV01.4050	small car	5	30	38	33	7	Yes
+CHEVROLET Spark	1.4	4	Man-5	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LGMXV01.4050	small car	5	29	38	33	7	Yes
+CHEVROLET Spark	1.4	4	Man-5	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LGMXV01.4050	small car	5	29	38	33	7	Yes
+CHEVROLET Spark Activ	1.4	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LGMXV01.4050	small car	5	30	37	33	7	Yes
+CHEVROLET Spark Activ	1.4	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LGMXV01.4050	small car	5	30	37	33	7	Yes
+CHEVROLET Spark Activ	1.4	4	Man-5	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LGMXV01.4050	small car	5	29	37	32	7	Yes
+CHEVROLET Spark Activ	1.4	4	Man-5	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LGMXV01.4050	small car	5	29	37	32	7	Yes
+CHRYSLER Pacifica Hybrid	3.6	6	CVT	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LCRXT03.65P6	minivan	7	29/87	30/76	30/82	10	Elite
+CHRYSLER Pacifica Hybrid	3.6	6	CVT	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LCRXT03.65P6	minivan	7	29/87	30/76	30/82	10	Elite
+FORD Escape	1.5	3	Auto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXT01.52X1	small SUV	7	27	33	30	7	Yes
+FORD Escape	1.5	3	Auto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXT01.52X1	small SUV	7	27	33	30	7	Yes
+FORD Escape HEV	2.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXT02.52F1	small SUV	7	44	37	41	9	Yes
+FORD Escape HEV	2.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXT02.52F1	small SUV	7	44	37	41	9	Yes
+FORD Escape HEV	2.5	4	CVT	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXT02.52F1	small SUV	7	43	37	40	9	Yes
+FORD Escape HEV	2.5	4	CVT	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXT02.52F1	small SUV	7	43	37	40	9	Yes
+FORD Escape PHEV	2.5	4	CVT	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LFMXT02.52P1	small SUV	7	43/114	38/91	41/102	10	Elite
+FORD Escape PHEV	2.5	4	CVT	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LFMXT02.52P1	small SUV	7	43/114	38/91	41/102	10	Elite
+FORD Fusion Energi Plug-in Hybrid	2	4	CVT	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LFMXV02.0VZQ	midsize car	7	43/109	40/97	42/103	10	Elite
+FORD Fusion Energi Plug-in Hybrid	2	4	CVT	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LFMXV02.0VZQ	midsize car	7	43/109	40/97	42/103	10	Elite
+FORD Fusion Hybrid	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXV02.0VZT	midsize car	7	43	41	42	9	Yes
+FORD Fusion Hybrid	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXV02.0VZT	midsize car	7	43	41	42	9	Yes
+FORD Fusion Hybrid Taxi	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXV02.0VZT	midsize car	7	43	40	41	9	Yes
+FORD Fusion Hybrid Taxi	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXV02.0VZT	midsize car	7	43	40	41	9	Yes
+FORD Fusion Special Service PHEV	2	4	CVT	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LFMXV02.0VZQ	midsize car	7	43/106	40/97	42/102	10	Elite
+FORD Fusion Special Service PHEV	2	4	CVT	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LFMXV02.0VZQ	midsize car	7	43/106	40/97	42/102	10	Elite
+HONDA Accord	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.53EB	large car	7	30	38	33	7	Yes
+HONDA Accord	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.53EB	large car	7	30	38	33	7	Yes
+HONDA Accord	1.5	4	Man-6	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LHNXV01.54DB	large car	6	26	35	30	7	Yes
+HONDA Accord	1.5	4	Man-6	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LHNXV01.54DB	large car	6	26	35	30	7	Yes
+HONDA Accord	1.5	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.53EB	large car	7	29	35	31	7	Yes
+HONDA Accord	1.5	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.53EB	large car	7	29	35	31	7	Yes
+HONDA Accord	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV02.0BEB	large car	7	48	47	48	10	Elite
+HONDA Accord	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV02.0BEB	large car	7	48	47	48	10	Elite
+HONDA CR-V	1.5	4	CVT	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LHNXT01.5YLC	small SUV	6	28	34	30	7	Yes
+HONDA CR-V	1.5	4	CVT	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LHNXT01.5YLC	small SUV	6	28	34	30	7	Yes
+HONDA CR-V	2	4	CVT	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXT02.0WMC	small SUV	7	40	35	38	8	Yes
+HONDA CR-V	2	4	CVT	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXT02.0WMC	small SUV	7	40	35	38	8	Yes
+HONDA Civic 2Dr	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	small car	7	31	40	35	8	Yes
+HONDA Civic 2Dr	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	small car	7	31	40	35	8	Yes
+HONDA Civic 2Dr	1.5	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	small car	7	30	37	33	7	Yes
+HONDA Civic 2Dr	1.5	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	small car	7	30	37	33	7	Yes
+HONDA Civic 2Dr	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV02.0CL3	small car	7	30	38	33	7	Yes
+HONDA Civic 2Dr	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV02.0CL3	small car	7	30	38	33	7	Yes
+HONDA Civic 2Dr	2	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV02.0CL3	small car	7	29	36	32	7	Yes
+HONDA Civic 2Dr	2	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV02.0CL3	small car	7	29	36	32	7	Yes
+HONDA Civic 4Dr	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	midsize car	7	32	42	36	8	Yes
+HONDA Civic 4Dr	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	midsize car	7	32	42	36	8	Yes
+HONDA Civic 4Dr	1.5	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	midsize car	7	30	38	33	7	Yes
+HONDA Civic 4Dr	1.5	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	midsize car	7	30	38	33	7	Yes
+HONDA Civic 4Dr	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV02.0CL3	midsize car	7	30	38	33	7	Yes
+HONDA Civic 4Dr	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV02.0CL3	midsize car	7	30	38	33	7	Yes
+HONDA Civic 4Dr	2	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV02.0CL3	midsize car	7	29	37	32	7	Yes
+HONDA Civic 4Dr	2	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV02.0CL3	midsize car	7	29	37	32	7	Yes
+HONDA Civic 5Dr	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	large car	7	31	40	34	8	Yes
+HONDA Civic 5Dr	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	large car	7	31	40	34	8	Yes
+HONDA Civic 5Dr	1.5	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.52L2	large car	7	29	35	32	7	Yes
+HONDA Civic 5Dr	1.5	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.52L2	large car	7	29	35	32	7	Yes
+HONDA Clarity	1.5	4	CVT	2WD	Gasoline/Electricity	CA	L3SULEV20	California LEV-III SULEV20	LHNXV01.5DFB	midsize car	8	44/117	40/102	42/110	10	Elite
+HONDA Clarity	1.5	4	CVT	2WD	Gasoline/Electricity	FA	T3B20	Federal Tier 3 Bin 20	LHNXV01.5DFB	midsize car	8	44/117	40/102	42/110	10	Elite
+HONDA Clarity	N/A	N/A	Auto-1	2WD	Hydrogen	FA	T3B0	Federal Tier 3 Bin 0	LHNXV00.0AAH	midsize car	10	68	67	68	10	Elite
+HONDA Clarity	N/A	N/A	Auto-1	2WD	Hydrogen	CA	ZEV	California ZEV	LHNXV00.0AAH	midsize car	10	68	67	68	10	Elite
+HONDA Fit	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.5XEB	station wagon	7	33	40	36	8	Yes
+HONDA Fit	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.5XEB	station wagon	7	33	40	36	8	Yes
+HONDA Fit	1.5	4	SCV-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.5XEB	station wagon	7	31	36	33	7	Yes
+HONDA Fit	1.5	4	SCV-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.5XEB	station wagon	7	31	36	33	7	Yes
+HONDA HR-V	1.8	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHNXV01.8ECC	station wagon	5	28	34	30	7	Yes
+HONDA HR-V	1.8	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHNXV01.8ECC	station wagon	5	28	34	30	7	Yes
+HONDA HR-V	1.8	4	SCV-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHNXV01.8ECC	station wagon	5	28	34	30	7	Yes
+HONDA HR-V	1.8	4	SCV-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHNXV01.8ECC	station wagon	5	28	34	30	7	Yes
+HONDA Insight	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.5CEB	midsize car	7	55	49	52	10	Elite
+HONDA Insight	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.5CEB	midsize car	7	55	49	52	10	Elite
+HONDA Insight Touring	1.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHNXV01.5CEB	midsize car	7	51	45	48	10	Elite
+HONDA Insight Touring	1.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHNXV01.5CEB	midsize car	7	51	45	48	10	Elite
+HYUNDAI Elantra	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.0CE3	midsize car	7	30	40	34	8	Yes
+HYUNDAI Elantra	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.0CE3	midsize car	7	30	40	34	8	Yes
+HYUNDAI Elantra	2	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV02.0CE5	midsize car	5	30	40	34	8	Yes
+HYUNDAI Elantra	2	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV02.0CE5	midsize car	5	30	40	34	8	Yes
+HYUNDAI Elantra SE	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.0CE3	midsize car	7	31	41	35	8	Yes
+HYUNDAI Elantra SE	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.0CE3	midsize car	7	31	41	35	8	Yes
+HYUNDAI Elantra SE	2	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV02.0CE5	midsize car	5	31	41	35	8	Yes
+HYUNDAI Elantra SE	2	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV02.0CE5	midsize car	5	31	41	35	8	Yes
+HYUNDAI Ioniq	1.6	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L13	large car	7	55	54	55	10	Elite
+HYUNDAI Ioniq	1.6	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L13	large car	7	55	54	55	10	Elite
+HYUNDAI Ioniq Blue	1.6	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L13	large car	7	57	59	58	10	Elite
+HYUNDAI Ioniq Blue	1.6	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L13	large car	7	57	59	58	10	Elite
+HYUNDAI Ioniq Electric	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LHYXV00.0P31	midsize car	10	145	121	133	10	Elite
+HYUNDAI Ioniq Electric	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LHYXV00.0P31	midsize car	10	145	121	133	10	Elite
+HYUNDAI Ioniq Plug-in Hybrid	1.6	4	AutoMan-6	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LHYXV01.6P2T	midsize car	7	53/123	52/114	52/119	10	Elite
+HYUNDAI Ioniq Plug-in Hybrid	1.6	4	AutoMan-6	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LHYXV01.6P2T	midsize car	7	53/123	52/114	52/119	10	Elite
+HYUNDAI Kona	1.6	4	AutoMan-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV01.6KC5	small SUV	5	28	32	30	7	Yes
+HYUNDAI Kona	1.6	4	AutoMan-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV01.6KC5	small SUV	5	28	32	30	7	Yes
+HYUNDAI Kona	2	4	SemiAuto-6	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV02.0KE5	small SUV	5	27	33	30	7	Yes
+HYUNDAI Kona	2	4	SemiAuto-6	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV02.0KE5	small SUV	5	27	33	30	7	Yes
+HYUNDAI Kona Electric	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LHYXV00.0K31	small SUV	10	132	108	120	10	Elite
+HYUNDAI Kona Electric	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LHYXV00.0K31	small SUV	10	132	108	120	10	Elite
+HYUNDAI NEXO	N/A	N/A	Auto-1	2WD	Hydrogen	FA	T3B0	Federal Tier 3 Bin 0	LHYXV00.0R41	small SUV	10	59	54	57	10	Elite
+HYUNDAI NEXO	N/A	N/A	Auto-1	2WD	Hydrogen	CA	ZEV	California ZEV	LHYXV00.0R41	small SUV	10	59	54	57	10	Elite
+HYUNDAI NEXO Blue	N/A	N/A	Auto-1	2WD	Hydrogen	FA	T3B0	Federal Tier 3 Bin 0	LHYXV00.0R41	small SUV	10	65	58	61	10	Elite
+HYUNDAI NEXO Blue	N/A	N/A	Auto-1	2WD	Hydrogen	CA	ZEV	California ZEV	LHYXV00.0R41	small SUV	10	65	58	61	10	Elite
+HYUNDAI Sonata	1.6	4	SemiAuto-8	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV01.6EC5	large car	5	27	36	31	7	Yes
+HYUNDAI Sonata	1.6	4	SemiAuto-8	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV01.6EC5	large car	5	27	36	31	7	Yes
+HYUNDAI Sonata	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.5ER3	large car	7	27	37	31	7	Yes
+HYUNDAI Sonata	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.5ER3	large car	7	28	38	32	7	Yes
+HYUNDAI Sonata	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.5ER3	large car	7	27	37	31	7	Yes
+HYUNDAI Sonata	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.5ER3	large car	7	28	38	32	7	Yes
+HYUNDAI Sonata Hybrid	2	4	AMS-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.0E13	large car	7	45	51	47	10	Elite
+HYUNDAI Sonata Hybrid	2	4	AMS-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.0E13	large car	7	45	51	47	10	Elite
+HYUNDAI Sonata Hybrid Blue	2	4	AMS-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LHYXV02.0E13	large car	7	50	54	52	10	Elite
+HYUNDAI Sonata Hybrid Blue	2	4	AMS-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LHYXV02.0E13	large car	7	50	54	52	10	Elite
+HYUNDAI Veloster	1.6	4	AutoMan-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV01.6BC5	small car	5	28	34	30	7	Yes
+HYUNDAI Veloster	1.6	4	AutoMan-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV01.6BC5	small car	5	28	34	30	7	Yes
+HYUNDAI Veloster	2	4	SemiAuto-6	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV02.0BE5	small car	5	27	34	30	7	Yes
+HYUNDAI Veloster	2	4	SemiAuto-6	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV02.0BE5	small car	5	27	34	30	7	Yes
+HYUNDAI Venue	1.6	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV01.6SB5	midsize car	5	30	34	32	7	Yes
+HYUNDAI Venue	1.6	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV01.6SB5	midsize car	5	30	34	32	7	Yes
+HYUNDAI Venue	1.6	4	Man-6	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LHYXV01.6SB5	midsize car	5	27	35	30	7	Yes
+HYUNDAI Venue	1.6	4	Man-6	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LHYXV01.6SB5	midsize car	5	27	35	30	7	Yes
+JAGUAR I-PACE	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LJLXT00.0TZA	small SUV	10	80	72	76	10	Elite
+JAGUAR I-PACE	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LJLXT00.0TZA	small SUV	10	80	72	76	10	Elite
+KARMA Revero GT (21-inch wheels)	1.5	3	Auto-1	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LKALV01.5LEV	small car	7	27/71	25/69	26/70	10	Elite
+KARMA Revero GT (21-inch wheels)	1.5	3	Auto-1	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LKALV01.5LEV	small car	7	27/71	25/69	26/70	10	Elite
+KIA Forte	1.6	4	AutoMan-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LKMXV01.6CC5	midsize car	5	27	35	30	7	Yes
+KIA Forte	1.6	4	AutoMan-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LKMXV01.6CC5	midsize car	5	27	35	30	7	Yes
+KIA Forte	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV02.0CE3	midsize car	7	29	40	33	7	Yes
+KIA Forte	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV02.0CE3	midsize car	7	29	40	33	7	Yes
+KIA Forte	2	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LKMXV02.0CE5	midsize car	5	29	40	33	7	Yes
+KIA Forte	2	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LKMXV02.0CE5	midsize car	5	29	40	33	7	Yes
+KIA Forte	2	4	Man-6	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LKMXV02.0CE5	midsize car	5	27	37	31	7	Yes
+KIA Forte	2	4	Man-6	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LKMXV02.0CE5	midsize car	5	27	37	31	7	Yes
+KIA Forte FE	2	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LKMXV02.0CE5	midsize car	5	31	41	35	8	Yes
+KIA Forte FE	2	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LKMXV02.0CE5	midsize car	5	31	41	35	8	Yes
+KIA Niro	1.6	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L13	station wagon	7	51	46	49	10	Elite
+KIA Niro	1.6	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L13	station wagon	7	51	46	49	10	Elite
+KIA Niro Electric	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LKMXV00.0L31	station wagon	10	123	102	112	10	Elite
+KIA Niro Electric	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LKMXV00.0L31	station wagon	10	123	102	112	10	Elite
+KIA Niro FE	1.6	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L13	station wagon	7	52	49	50	10	Elite
+KIA Niro FE	1.6	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L13	station wagon	7	52	49	50	10	Elite
+KIA Niro Plug-in Hybrid	1.6	4	AutoMan-6	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L2T	station wagon	7	48/110	44/99	46/105	10	Elite
+KIA Niro Plug-in Hybrid	1.6	4	AutoMan-6	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L2T	station wagon	7	48/110	44/99	46/105	10	Elite
+KIA Niro Touring	1.6	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV01.6L13	station wagon	7	46	40	43	9	Yes
+KIA Niro Touring	1.6	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV01.6L13	station wagon	7	46	40	43	9	Yes
+KIA Optima	1.6	4	AutoMan-7	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LKMXV01.6DC5	large car	5	27	37	31	7	Yes
+KIA Optima	1.6	4	AutoMan-7	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LKMXV01.6DC5	large car	5	27	37	31	7	Yes
+KIA Optima Hybrid	2	4	AutoMan-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV02.0D13	midsize car	7	40	45	42	9	Yes
+KIA Optima Hybrid	2	4	AutoMan-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV02.0D13	midsize car	7	40	45	42	9	Yes
+KIA Optima plug-in hybrid	2	4	AutoMan-6	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LKMXV02.0D2T	midsize car	7	39/103	44/100	41/101	10	Elite
+KIA Optima plug-in hybrid	2	4	AutoMan-6	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LKMXV02.0D2T	midsize car	7	39/103	44/100	41/101	10	Elite
+KIA Soul	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV02.0BE3	station wagon	7	27	33	30	7	Yes
+KIA Soul	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV02.0BE3	station wagon	7	27	33	30	7	Yes
+KIA Soul Eco dynamics	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LKMXV02.0BE3	station wagon	7	29	35	31	7	Yes
+KIA Soul Eco dynamics	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LKMXV02.0BE3	station wagon	7	29	35	31	7	Yes
+KIA Soul Electric	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LKMXV00.0B31	station wagon	10	127	101	114	10	Elite
+KIA Soul Electric	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LKMXV00.0B31	station wagon	10	127	101	114	10	Elite
+LAND ROVER Range Rover PHEV	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LJLXT02.0PTW	standard SUV	7	18/42	21/42	19/42	8	Yes
+LAND ROVER Range Rover PHEV	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LJLXT02.0PTW	standard SUV	7	18/42	21/42	19/42	8	Yes
+LAND ROVER Range Rover Sport PHEV	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LJLXT02.0PTW	standard SUV	7	18/42	21/42	19/42	8	Yes
+LAND ROVER Range Rover Sport PHEV	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LJLXT02.0PTW	standard SUV	7	18/42	21/42	19/42	8	Yes
+LEXUS ES 300h	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P33	midsize car	7	43	44	44	9	Yes
+LEXUS ES 300h	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P33	midsize car	7	43	44	44	9	Yes
+LEXUS LC 500h	3.5	6	SCV-10	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV03.5P35	small car	7	27	35	30	7	Yes
+LEXUS LC 500h	3.5	6	SCV-10	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV03.5P35	small car	7	27	35	30	7	Yes
+LEXUS NX 300h	2.5	4	SCV-6	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT02.5P3M	small SUV	7	33	30	31	7	Yes
+LEXUS NX 300h	2.5	4	SCV-6	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT02.5P3M	small SUV	7	33	30	31	7	Yes
+LEXUS RX 450h	3.5	6	SCV-6	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT03.5P34	standard SUV	7	31	28	30	7	Yes
+LEXUS RX 450h	3.5	6	SCV-6	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT03.5P34	standard SUV	7	31	28	30	7	Yes
+LEXUS UX 200	2	4	SCV-10	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4A	midsize car	6	29	37	33	7	Yes
+LEXUS UX 200	2	4	SCV-10	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4A	midsize car	6	29	37	33	7	Yes
+LEXUS UX 250h	2	4	SCV-6	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4C	small car	6	43	41	42	9	Yes
+LEXUS UX 250h	2	4	SCV-6	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4C	small car	6	43	41	42	9	Yes
+LEXUS UX 250h	2	4	SCV-6	4WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4C	small car	6	41	38	39	9	Yes
+LEXUS UX 250h	2	4	SCV-6	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4C	small car	6	41	38	39	9	Yes
+LINCOLN Aviator PHEV	3	6	SemiAuto-10	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LFMXT03.03P1	standard SUV	7	22/54	25/58	23/56	9	Yes
+LINCOLN Aviator PHEV	3	6	SemiAuto-10	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LFMXT03.03P1	standard SUV	7	22/54	25/58	23/56	9	Yes
+LINCOLN MKZ Hybrid	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFMXV02.0VZT	midsize car	7	42	39	41	9	Yes
+LINCOLN MKZ Hybrid	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LFMXV02.0VZT	midsize car	7	42	39	41	9	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTKXV02.5CDA	midsize car	7	26	35	30	7	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTKXV02.5CDA	small car	7	26	35	30	7	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTKXV02.5CDA	small car	7	27	36	30	7	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTKXV02.5CDA	midsize car	7	26	35	30	7	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTKXV02.5CDA	small car	7	26	35	30	7	Yes
+MAZDA 3	2.5	4	SemiAuto-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTKXV02.5CDA	small car	7	27	36	30	7	Yes
+MAZDA CX-3	2	4	SemiAuto-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTKXV02.5CDA	small car	7	29	34	31	7	Yes
+MAZDA CX-3	2	4	SemiAuto-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTKXV02.5CDA	small car	7	29	34	31	7	Yes
+MERCEDES-BENZ GLC 350e 4Matic	2	4	Auto-9	4WD	Gasoline/Electricity	CA	L3ULEV70	California LEV-III ULEV70	LMBXT02.0HY1	small SUV	5	23/67	28/70	25/68	10	Yes
+MERCEDES-BENZ GLC 350e 4Matic	2	4	Auto-9	4WD	Gasoline/Electricity	FA	T3B70	Federal Tier 3 Bin 70	LMBXT02.0HY1	small SUV	5	23/67	28/70	25/68	10	Yes
+MINI Cooper Convertible	1.5	3	AMS-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LBMXV01.5B36	small car	7	28	36	31	7	Yes
+MINI Cooper Convertible	1.5	3	AMS-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LBMXV01.5B36	small car	7	28	36	31	7	Yes
+MINI Cooper Hardtop	1.5	3	AMS-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LBMXV01.5B36	small car	7	28	36	31	7	Yes
+MINI Cooper Hardtop	1.5	3	AMS-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LBMXV01.5B36	small car	7	28	36	31	7	Yes
+MINI Cooper S Hardtop	2	4	AMS-7	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LBMXV02.0B46	small car	7	26	35	30	7	Yes
+MINI Cooper S Hardtop	2	4	AMS-7	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LBMXV02.0B46	small car	7	26	35	30	7	Yes
+MINI Cooper SE Hardtop	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LBMXV00.0F5B	small car	10	115	100	108	10	Elite
+MINI Cooper SE Hardtop	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LBMXV00.0F5B	small car	10	115	100	108	10	Elite
+MITSUBISHI Mirage	1.2	3	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LMTXV01.2G5P	small car	5	36	43	39	9	Yes
+MITSUBISHI Mirage	1.2	3	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LMTXV01.2G5P	small car	5	36	43	39	9	Yes
+MITSUBISHI Mirage	1.2	3	Man-5	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LMTXV01.2G5P	small car	5	33	41	36	8	Yes
+MITSUBISHI Mirage	1.2	3	Man-5	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LMTXV01.2G5P	small car	5	33	41	36	8	Yes
+MITSUBISHI Mirage G4	1.2	3	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LMTXV01.2G5P	small car	5	35	41	37	8	Yes
+MITSUBISHI Mirage G4	1.2	3	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LMTXV01.2G5P	small car	5	35	41	37	8	Yes
+MITSUBISHI Mirage G4	1.2	3	Man-5	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LMTXV01.2G5P	small car	5	33	40	35	8	Yes
+MITSUBISHI Mirage G4	1.2	3	Man-5	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LMTXV01.2G5P	small car	5	33	40	35	8	Yes
+MITSUBISHI Outlander PHEV	2	4	Auto-1	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LMTXT02.0H3M	small SUV	7	25/78	26/70	25/74	10	Elite
+MITSUBISHI Outlander PHEV	2	4	Auto-1	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LMTXT02.0H3M	small SUV	7	25/78	26/70	25/74	10	Elite
+NISSAN Altima	2.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV02.5RPA	midsize car	7	28	39	32	7	Yes
+NISSAN Altima	2.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV02.5RPA	midsize car	7	28	39	32	7	Yes
+NISSAN Altima	2.5	4	CVT	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV02.5RPA	midsize car	7	26	36	30	7	Yes
+NISSAN Altima	2.5	4	CVT	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV02.5RPA	midsize car	7	26	36	30	7	Yes
+NISSAN Altima SR/Platinum	2.5	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV02.5RPA	midsize car	7	27	37	31	7	Yes
+NISSAN Altima SR/Platinum	2.5	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV02.5RPA	midsize car	7	27	37	31	7	Yes
+NISSAN Kicks	1.6	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV01.6RNA	midsize car	7	31	36	33	7	Yes
+NISSAN Kicks	1.6	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV01.6RNA	midsize car	7	31	36	33	7	Yes
+NISSAN Leaf	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LNSXV0000TL2	midsize car	10	123	99	111	10	Elite
+NISSAN Leaf	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LNSXV0000TL2	midsize car	10	123	99	111	10	Elite
+NISSAN Leaf	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LNSXV0000TS3	midsize car	10	118	97	108	10	Elite
+NISSAN Leaf	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LNSXV0000TS3	midsize car	10	118	97	108	10	Elite
+NISSAN Leaf SV/SL	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LNSXV0000TS3	midsize car	10	114	94	104	10	Elite
+NISSAN Leaf SV/SL	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LNSXV0000TS3	midsize car	10	114	94	104	10	Elite
+NISSAN Sentra	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV02.0RMA	midsize car	7	29	39	33	7	Yes
+NISSAN Sentra	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV02.0RMA	midsize car	7	29	39	33	7	Yes
+NISSAN Sentra SR	2	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV02.0RMA	midsize car	7	28	37	32	7	Yes
+NISSAN Sentra SR	2	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV02.0RMA	midsize car	7	28	37	32	7	Yes
+NISSAN Versa	1.6	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV01.6RNA	small car	7	32	40	35	8	Yes
+NISSAN Versa	1.6	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV01.6RNA	small car	7	32	40	35	8	Yes
+NISSAN Versa	1.6	4	Man-5	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LNSXV01.6RNA	small car	7	27	35	30	7	Yes
+NISSAN Versa	1.6	4	Man-5	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LNSXV01.6RNA	small car	7	27	35	30	7	Yes
+POLESTAR 1	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3ULEV70	California LEV-III ULEV70	LVVXV02.0P3R	small car	5	22/55	31/61	26/58	10	Yes
+POLESTAR 1	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B70	Federal Tier 3 Bin 70	LVVXV02.0P3R	small car	5	22/55	31/61	26/58	10	Yes
+PORSCHE Panamera 4 e-Hybrid	2.9	6	AMS-8	4WD	Gasoline/Electricity	CA	L3ULEV70	California LEV-III ULEV70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Panamera 4 e-Hybrid	2.9	6	AMS-8	4WD	Gasoline/Electricity	FA	T3B70	Federal Tier 3 Bin 70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Panamera 4 e-Hybrid Executive	2.9	6	AMS-8	4WD	Gasoline/Electricity	CA	L3ULEV70	California LEV-III ULEV70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Panamera 4 e-Hybrid Executive	2.9	6	AMS-8	4WD	Gasoline/Electricity	FA	T3B70	Federal Tier 3 Bin 70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Panamera 4 e-Hybrid ST	2.9	6	AMS-8	4WD	Gasoline/Electricity	CA	L3ULEV70	California LEV-III ULEV70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Panamera 4 e-Hybrid ST	2.9	6	AMS-8	4WD	Gasoline/Electricity	FA	T3B70	Federal Tier 3 Bin 70	LPRXV02.9PH6	large car	5	21/48	24/54	23/51	8	Yes
+PORSCHE Taycan 4S Perf Battery Plus	N/A	N/A	Auto-2	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LPRXV00.0EVT	large car	10	68	71	69	10	Elite
+PORSCHE Taycan 4S Perf Battery Plus	N/A	N/A	Auto-2	4WD	Electricity	CA	ZEV	California ZEV	LPRXV00.0EVT	large car	10	68	71	69	10	Elite
+PORSCHE Taycan Turbo	N/A	N/A	Auto-2	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LPRXV00.0EVT	large car	10	68	71	69	10	Elite
+PORSCHE Taycan Turbo	N/A	N/A	Auto-2	4WD	Electricity	CA	ZEV	California ZEV	LPRXV00.0EVT	large car	10	68	71	69	10	Elite
+PORSCHE Taycan Turbo S	N/A	N/A	Auto-2	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LPRXV00.0EVT	large car	10	67	68	68	10	Elite
+PORSCHE Taycan Turbo S	N/A	N/A	Auto-2	4WD	Electricity	CA	ZEV	California ZEV	LPRXV00.0EVT	large car	10	67	68	68	10	Elite
+SUBARU Crosstrek	2	4	SCV-8	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	small SUV	7	27	33	30	7	Yes
+SUBARU Crosstrek	2	4	SCV-8	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	small SUV	6	27	33	30	7	Yes
+SUBARU Crosstrek Hybrid	2	4	CVT	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LFJXT02.0EVC	small SUV	7	36/99	35/80	35/90	10	Elite
+SUBARU Crosstrek Hybrid	2	4	CVT	4WD	Gasoline/Electricity	FA	T3B50	Federal Tier 3 Bin 50	LFJXT02.0EVC	small SUV	6	36/99	35/80	35/90	10	Yes
+SUBARU Impreza	2	4	SCV-7	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	midsize car	7	28	36	31	7	Yes
+SUBARU Impreza	2	4	SCV-7	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	station wagon	7	28	36	31	7	Yes
+SUBARU Impreza	2	4	SCV-7	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	midsize car	6	28	36	31	7	Yes
+SUBARU Impreza	2	4	SCV-7	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	station wagon	6	28	36	31	7	Yes
+SUBARU Impreza 4-Door Sport	2	4	SCV-7	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	midsize car	7	27	36	30	7	Yes
+SUBARU Impreza 4-Door Sport	2	4	SCV-7	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	midsize car	6	27	36	30	7	Yes
+SUBARU Impreza 5-Door Sport	2	4	SCV-7	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	station wagon	7	27	35	30	7	Yes
+SUBARU Impreza 5-Door Sport	2	4	SCV-7	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	station wagon	6	27	35	30	7	Yes
+SUBARU Legacy	2.5	4	SCV-8	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LFJXJ02.5BUY	large car	7	27	35	30	7	Yes
+SUBARU Legacy	2.5	4	SCV-8	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LFJXJ02.5BUY	large car	6	27	35	30	7	Yes
+TESLA Model 3 Long Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L23	midsize car	10	124	116	121	10	Elite
+TESLA Model 3 Long Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L23	midsize car	10	124	116	121	10	Elite
+"TESLA Model 3 Long Range Perform 18"""	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L23	midsize car	10	124	116	121	10	Elite
+"TESLA Model 3 Long Range Perform 18"""	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L23	midsize car	10	124	116	121	10	Elite
+"TESLA Model 3 Long Range Perform 19"""	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L23	midsize car	10	119	112	116	10	Elite
+"TESLA Model 3 Long Range Perform 19"""	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L23	midsize car	10	119	112	116	10	Elite
+"TESLA Model 3 Long Range Perform 20"""	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L23	midsize car	10	118	107	113	10	Elite
+"TESLA Model 3 Long Range Perform 20"""	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L23	midsize car	10	118	107	113	10	Elite
+TESLA Model 3 Mid Range	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L13	midsize car	10	128	117	123	10	Elite
+TESLA Model 3 Mid Range	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L13	midsize car	10	128	117	123	10	Elite
+TESLA Model 3 Standard Range	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L13	midsize car	10	138	124	131	10	Elite
+TESLA Model 3 Standard Range	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L13	midsize car	10	138	124	131	10	Elite
+TESLA Model 3 Standard Range Plus	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L13	midsize car	10	148	132	141	10	Elite
+TESLA Model 3 Standard Range Plus	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L13	midsize car	10	148	132	141	10	Elite
+TESLA Model 4 Long Range	N/A	N/A	Auto-1	2WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L13	midsize car	10	136	123	130	10	Elite
+TESLA Model 4 Long Range	N/A	N/A	Auto-1	2WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L13	midsize car	10	136	123	130	10	Elite
+TESLA Model S Long Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2S	large car	10	115	107	111	10	Elite
+TESLA Model S Long Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2S	large car	10	115	107	111	10	Elite
+TESLA Model S Long Range Plus	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2S	large car	10	121	112	117	10	Elite
+TESLA Model S Long Range Plus	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2S	large car	10	121	112	117	10	Elite
+"TESLA Model S Performance (19"")"	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2S	large car	10	104	104	104	10	Elite
+"TESLA Model S Performance (19"")"	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2S	large car	10	104	104	104	10	Elite
+"TESLA Model S Performance (21"")"	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2S	large car	10	98	96	97	10	Elite
+"TESLA Model S Performance (21"")"	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2S	large car	10	98	96	97	10	Elite
+TESLA Model S Standard Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2S	large car	10	113	105	109	10	Elite
+TESLA Model S Standard Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2S	large car	10	113	105	109	10	Elite
+TESLA Model X Long Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2X	standard SUV	10	99	93	96	10	Elite
+TESLA Model X Long Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2X	standard SUV	10	99	93	96	10	Elite
+TESLA Model X Long Range Plus	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2X	standard SUV	10	108	101	105	10	Elite
+TESLA Model X Long Range Plus	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2X	standard SUV	10	108	101	105	10	Elite
+"TESLA Model X Performance (20"")"	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2X	standard SUV	10	90	89	90	10	Elite
+"TESLA Model X Performance (20"")"	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2X	standard SUV	10	90	89	90	10	Elite
+"TESLA Model X Performance (22"")"	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2X	standard SUV	10	80	77	79	10	Elite
+"TESLA Model X Performance (22"")"	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2X	standard SUV	10	80	77	79	10	Elite
+TESLA Model X Standard Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2X	standard SUV	10	105	98	101	10	Elite
+TESLA Model X Standard Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2X	standard SUV	10	105	98	101	10	Elite
+TESLA Model Y Long Range	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2Y	small SUV	10	127	114	121	10	Elite
+TESLA Model Y Long Range	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2Y	small SUV	10	127	114	121	10	Elite
+TESLA Model Y Performance	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2Y	small SUV	10	129	112	121	10	Elite
+TESLA Model Y Performance	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2Y	small SUV	10	129	112	121	10	Elite
+"TESLA Model Y Performance 21"""	N/A	N/A	Auto-1	4WD	Electricity	FA	T3B0	Federal Tier 3 Bin 0	LTSLV00.0L2Y	small SUV	10	116	106	111	10	Elite
+"TESLA Model Y Performance 21"""	N/A	N/A	Auto-1	4WD	Electricity	CA	ZEV	California ZEV	LTSLV00.0L2Y	small SUV	10	116	106	111	10	Elite
+TOYOTA Avalon Hybrid	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P33	midsize car	7	43	43	43	9	Yes
+TOYOTA Avalon Hybrid	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P33	midsize car	7	43	43	43	9	Yes
+TOYOTA Avalon Hybrid XLE	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P33	midsize car	7	43	44	44	9	Yes
+TOYOTA Avalon Hybrid XLE	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P33	midsize car	7	43	44	44	9	Yes
+TOYOTA Camry	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P3A	midsize car	7	29	41	34	8	Yes
+TOYOTA Camry	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P3A	midsize car	7	29	41	34	8	Yes
+TOYOTA Camry Hybrid LE	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P35	midsize car	7	51	53	52	10	Elite
+TOYOTA Camry Hybrid LE	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P35	midsize car	7	51	53	52	10	Elite
+TOYOTA Camry Hybrid XLE/SE	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P35	midsize car	7	44	47	46	10	Elite
+TOYOTA Camry Hybrid XLE/SE	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P35	midsize car	7	44	47	46	10	Elite
+TOYOTA Camry LE/SE	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P3A	midsize car	7	28	39	32	7	Yes
+TOYOTA Camry LE/SE	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P3A	midsize car	7	28	39	32	7	Yes
+TOYOTA Camry XLE/XSE	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV02.5P3A	midsize car	7	27	38	31	7	Yes
+TOYOTA Camry XLE/XSE	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV02.5P3A	midsize car	7	27	38	31	7	Yes
+TOYOTA Corolla	1.8	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LTYXV01.8M5B	small car	5	30	38	33	7	Yes
+TOYOTA Corolla	1.8	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LTYXV01.8M5B	small car	5	30	38	33	7	Yes
+TOYOTA Corolla	1.8	4	Man-6	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LTYXV01.8M5B	small car	5	29	39	33	7	Yes
+TOYOTA Corolla	1.8	4	Man-6	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LTYXV01.8M5B	small car	5	29	39	33	7	Yes
+TOYOTA Corolla	2	4	Man-6	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	29	36	32	7	Yes
+TOYOTA Corolla	2	4	Man-6	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	29	36	32	7	Yes
+TOYOTA Corolla	2	4	SCV-10	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	31	40	34	8	Yes
+TOYOTA Corolla	2	4	SCV-10	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	31	40	34	8	Yes
+TOYOTA Corolla Hatchback	2	4	Man-6	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	28	37	31	7	Yes
+TOYOTA Corolla Hatchback	2	4	Man-6	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	28	37	31	7	Yes
+TOYOTA Corolla Hatchback	2	4	SCV-10	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	32	41	35	8	Yes
+TOYOTA Corolla Hatchback	2	4	SCV-10	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	32	41	35	8	Yes
+TOYOTA Corolla Hatchback XSE	2	4	SCV-10	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	30	38	33	7	Yes
+TOYOTA Corolla Hatchback XSE	2	4	SCV-10	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	30	38	33	7	Yes
+TOYOTA Corolla Hybrid	1.8	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV01.8P33	small car	7	53	52	52	10	Elite
+TOYOTA Corolla Hybrid	1.8	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV01.8P33	small car	7	53	52	52	10	Elite
+TOYOTA Corolla XLE	1.8	4	CVT	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LTYXV01.8M5B	small car	5	29	37	32	7	Yes
+TOYOTA Corolla XLE	1.8	4	CVT	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LTYXV01.8M5B	small car	5	29	37	32	7	Yes
+TOYOTA Corolla XSE	2	4	SCV-10	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXV02.0N4B	small car	6	31	38	34	8	Yes
+TOYOTA Corolla XSE	2	4	SCV-10	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXV02.0N4B	small car	6	31	38	34	8	Yes
+TOYOTA Highlander Hybrid	2.5	4	SCV-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT02.5P34	small SUV	7	36	35	36	8	Yes
+TOYOTA Highlander Hybrid	2.5	4	SCV-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT02.5P34	small SUV	7	36	35	36	8	Yes
+TOYOTA Highlander Hybrid	2.5	4	SCV-6	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT02.5P34	standard SUV	7	35	35	35	8	Yes
+TOYOTA Highlander Hybrid	2.5	4	SCV-6	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT02.5P34	standard SUV	7	35	35	35	8	Yes
+TOYOTA Highlander Hybrid LTD/PLAT	2.5	4	SCV-6	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT02.5P34	standard SUV	7	35	34	35	8	Yes
+TOYOTA Highlander Hybrid LTD/PLAT	2.5	4	SCV-6	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT02.5P34	standard SUV	7	35	34	35	8	Yes
+TOYOTA Mirai	N/A	N/A	CVT	2WD	Hydrogen	FA	T3B0	Federal Tier 3 Bin 0	LTYXV00.0DA7	small car	10	67	67	67	10	Elite
+TOYOTA Mirai	N/A	N/A	CVT	2WD	Hydrogen	CA	ZEV	California ZEV	LTYXV00.0DA7	small car	10	67	67	67	10	Elite
+TOYOTA Prius	1.8	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV01.8P34	midsize car	7	54	50	52	10	Elite
+TOYOTA Prius	1.8	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV01.8P34	midsize car	7	54	50	52	10	Elite
+TOYOTA Prius	1.8	4	CVT	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV01.8P33	midsize car	7	52	48	50	10	Elite
+TOYOTA Prius	1.8	4	CVT	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV01.8P33	midsize car	7	52	48	50	10	Elite
+TOYOTA Prius Eco	1.8	4	CVT	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXV01.8P34	midsize car	7	58	53	56	10	Elite
+TOYOTA Prius Eco	1.8	4	CVT	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXV01.8P34	midsize car	7	58	53	56	10	Elite
+TOYOTA Prius Prime	1.8	4	CVT	2WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LTYXV01.8P35	midsize car	7	55/145	53/121	54/133	10	Elite
+TOYOTA Prius Prime	1.8	4	CVT	2WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LTYXV01.8P35	midsize car	7	55/145	53/121	54/133	10	Elite
+TOYOTA RAV4	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXJ02.5N4L	small SUV	6	27	35	30	7	Yes
+TOYOTA RAV4	2.5	4	SemiAuto-8	2WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXJ02.5N4L	small SUV	6	28	35	30	7	Yes
+TOYOTA RAV4	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXJ02.5N4L	small SUV	6	27	35	30	7	Yes
+TOYOTA RAV4	2.5	4	SemiAuto-8	2WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXJ02.5N4L	small SUV	6	28	35	30	7	Yes
+TOYOTA RAV4 Hybrid	2.5	4	SCV-6	4WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LTYXT02.5P3N	small SUV	7	41	38	40	9	Yes
+TOYOTA RAV4 Hybrid	2.5	4	SCV-6	4WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LTYXT02.5P3N	small SUV	7	41	38	40	9	Yes
+TOYOTA RAV4 LE	2.5	4	SemiAuto-8	4WD	Gasoline	CA	L3ULEV50	California LEV-III ULEV50	LTYXJ02.5N4L	small SUV	6	27	34	30	7	Yes
+TOYOTA RAV4 LE	2.5	4	SemiAuto-8	4WD	Gasoline	FA	T3B50	Federal Tier 3 Bin 50	LTYXJ02.5N4L	small SUV	6	27	34	30	7	Yes
+VOLKSWAGEN Golf	1.4	4	Man-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LVGAV01.4V3P	small car	7	28	36	31	7	Yes
+VOLKSWAGEN Golf	1.4	4	Man-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LVGAV01.4V3P	small car	7	28	36	31	7	Yes
+VOLKSWAGEN Golf	1.4	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LVGAV01.4V3P	small car	7	29	35	32	7	Yes
+VOLKSWAGEN Golf	1.4	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LVGAV01.4V3P	small car	7	29	35	32	7	Yes
+VOLKSWAGEN Jetta	1.4	4	Man-6	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LVGAV01.4V3P	small car	7	30	40	34	8	Yes
+VOLKSWAGEN Jetta	1.4	4	Man-6	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LVGAV01.4V3P	small car	7	30	40	34	8	Yes
+VOLKSWAGEN Jetta	1.4	4	SemiAuto-8	2WD	Gasoline	CA	L3SULEV30	California LEV-III SULEV30	LVGAV01.4V3P	small car	7	30	40	34	8	Yes
+VOLKSWAGEN Jetta	1.4	4	SemiAuto-8	2WD	Gasoline	FA	T3B30	Federal Tier 3 Bin 30	LVGAV01.4V3P	small car	7	30	40	34	8	Yes
+VOLKSWAGEN Jetta	1.4	4	SemiAuto-8	2WD	Gasoline	CA	L3ULEV70	California LEV-III ULEV70	LVGAV01.4V7P	small car	5	30	40	34	8	Yes
+VOLKSWAGEN Jetta	1.4	4	SemiAuto-8	2WD	Gasoline	FA	T3B70	Federal Tier 3 Bin 70	LVGAV01.4V7P	small car	5	30	40	34	8	Yes
+VOLVO S60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVVXJ02.0P30	small car	7	28/70	33/68	30/69	10	Elite
+VOLVO S60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVVXJ02.0P30	small car	7	28/70	33/68	30/69	10	Elite
+VOLVO S90	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVVXJ02.0P30	midsize car	7	28/58	31/64	30/60	10	Elite
+VOLVO S90	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVVXJ02.0P30	midsize car	7	28/58	31/64	30/60	10	Elite
+VOLVO V60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVVXJ02.0P30	station wagon	7	28/70	33/68	30/69	10	Elite
+VOLVO V60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVVXJ02.0P30	station wagon	7	28/70	33/68	30/69	10	Elite
+VOLVO XC60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVVXJ02.0P30	small SUV	7	26/56	28/57	27/57	10	Elite
+VOLVO XC60	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVVXJ02.0P30	small SUV	7	26/56	28/57	27/57	10	Elite
+VOLVO XC90	2	4	SemiAuto-8	4WD	Gasoline/Electricity	CA	L3SULEV30	California LEV-III SULEV30	LVVXJ02.0P30	standard SUV	7	26/58	28/52	27/55	10	Elite
+VOLVO XC90	2	4	SemiAuto-8	4WD	Gasoline/Electricity	FA	T3B30	Federal Tier 3 Bin 30	LVVXJ02.0P30	standard SUV	7	26/58	28/52	27/55	10	Elite

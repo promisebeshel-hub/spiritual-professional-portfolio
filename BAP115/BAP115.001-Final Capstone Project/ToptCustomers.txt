@@ -1,0 +1,13 @@
+Title	LastName	FirstName	StreetAddress	City	ZipCode	Phone	Full Name
+Mr.	Easton	Jamie	2905 Washington Street	Miami FL	33186	(305) 555-1028	
+Mr.	Grant	John	702 Columbia Road	West Palm Beach FL	33403	(561) 555-9361	
+Ms.	McDonald	Nora	3182 Roguski Road	Ft. Lauderdale FL	33316	(954) 555-9177	
+Ms.	Rand	Rosalie	3320 Sharon Lane	West Palm Beach FL	33417	(561) 555-2958	
+Mr.	Rayner	Ronald	3670 Beechwood Drive	West Palm Beach FL	33417	(561) 555-1141	
+Mr.	Riggs	Steven	2860 Godfrey Road	Ft. Lauderdale FL	33304	(954) 555-1017	
+Mr.	Sturm	Robert	2191 Jarvis Street	Miami FL	33186	(305) 555-0049	
+Ms.	Walker	Jane	2474 Croft Drive	Ft. Lauderdale FL	33301	(954) 555-9960	
+Ms.	Wallace	Susan	590 Grant View Drive	Ft. Lauderdale FL	33304	(954) 555-4512	
+Ms.	Willis	Amy	1274 Valley Street	West Palm Beach FL	33412	(561) 555-7939	
+Mr.	Wuellner	Nathan	4066 Glen Street	West Palm Beach FL	33414	(561) 555-0096	
+Ms.	Zhou	Annie	3952 Hewes Avenue	Ft. Lauderdale FL	33316	(954) 555-4386	
