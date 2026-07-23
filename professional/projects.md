@@ -40,12 +40,14 @@ Developed an automated database pipeline using **Python** and **SQLite** to prog
 
 Designed, configured, and simulated localized and enterprise network environments using **Cisco Packet Tracer** and managed cloud resources on **Microsoft Azure**.
 
-* **Key Deliverables:** Network topology configurations, subnetting designs, router/switch command-line setup, and Azure storage/VM administration runbooks.
+* **Key Deliverables:** Network topology configurations, subnetting designs, router/switch command-line setup, Azure Security Groups, Users, and Azure storage/VM administration runbooks.
 * **Core Competencies:** IP Subnetting, Routing Protocols, Access Control Lists (ACLs), Azure Storage, Virtualization.
 * **Demonstration Videos:**
   * 📹 [Network Infrastructure Lab Demo 1](https://vimeo.com/1182783917/a885789a23)
   * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f).
   * 📹[Network Infrastructure Lab Demo 3](https://vimeo.com/1173643860/8a4df824f8).
+  * 📹[Azure Demo 1](https://vimeo.com/1209346092?share=copy&fl=sv&fe=ci).
+  * 📹[Azure Demo 2](https://vimeo.com/1211081451?share=copy&fl=sv&fe=ci).
 
 ---
 
