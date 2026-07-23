@@ -53,25 +53,89 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ## Coursework Files & Verification
 
-## Complete Coursework & Repository Directory
+<h2>Complete Coursework & Repository Directory</h2>
 
-| Course Code & Title | Primary Technologies | Link to Repository Folder |
-| :--- | :--- | :--- |
-| **BAP115** — Microsoft Excel | Data Analysis & Spreadsheets | [View Files](../BAP115) |
-| **CS104-002** — Python Scripting | Python, SQLite, JSON | [View Files](../CS104-002_FinalProject) |
-| **IT125** — Intro to Information Technology | Systems & IT Concepts | [View Files](../IT125) |
-| **IT143** — DB Design and Analysis | MS SQL Server, T-SQL | [View Files](../IT143-DB%20Design%20and%20Analysis) |
-| **IT160** — Cloud Computing Essentials | Cloud Storage, Azure Basics | [View Files](../IT160-Cloud%20Computing%20Essentials) |
-| **IT210** — Linux Fundamentals | Linux Administration, CLI | [View Files](../IT210-Linux%20Fundamentals) |
-| **IT255** — Networking Fundamentals | Cisco Packet Tracer, Subnetting | [View Files](../IT255-Networking%20Fundamentals) |
-| **IT312** — Cyber Security | Nmap, Wireshark, Security Audit | [View Files](../IT312--Cyber%20Security) |
-| **IT316** — Scripting for Technology | Python Automation, Scripting | [View Files](../IT316-Scripting%20for%20Technology) |
-| **IT330** — Azure Technologies | Identity Roles, Azure Cloud | [View Files](../IT330-Azure%20Technologies) |
-| **IT335** — AWS Cloud Practitioner | Cloud Security & Compliance | [View Files](../IT335-AWS%20Cloud%20Practitioner) |
-| **IT350** — Network Config and Design | Advanced Network Routing | [View Files](../IT350-Network%20Configuration%20and%20Design) |
-| **IT370** — Advanced Linux | Linux Systems & Server Admin | [View Files](../IT370--Advanced%20Linux) |
-| **IT497** — Capstone Project | IT Portfolio & Portfolio Integration | [View Files](../IT497-Capstone%20Project) |
----
+<table>
+  <thead>
+    <tr>
+      <th>Course Code & Title</th>
+      <th>Primary Technologies</th>
+      <th>Link to Repository Folder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>BAP115</strong> — Microsoft Excel</td>
+      <td>Data Analysis & Spreadsheets</td>
+      <td><a href="../BAP115">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>CS104-002</strong> — Python Scripting</td>
+      <td>Python, SQLite, JSON</td>
+      <td><a href="../CS104-002_FinalProject">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT125</strong> — Intro to Information Technology</td>
+      <td>Systems & IT Concepts</td>
+      <td><a href="../IT125">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT143</strong> — DB Design and Analysis</td>
+      <td>MS SQL Server, T-SQL</td>
+      <td><a href="../IT143-DB%20Design%20and%20Analysis">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT160</strong> — Cloud Computing Essentials</td>
+      <td>Cloud Storage, Azure Basics</td>
+      <td><a href="../IT160-Cloud%20Computing%20Essentials">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT210</strong> — Linux Fundamentals</td>
+      <td>Linux Administration, CLI</td>
+      <td><a href="../IT210-Linux%20Fundamentals">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT255</strong> — Networking Fundamentals</td>
+      <td>Cisco Packet Tracer, Subnetting</td>
+      <td><a href="../IT255-Networking%20Fundamentals">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT312</strong> — Cyber Security</td>
+      <td>Nmap, Wireshark, Security Audit</td>
+      <td><a href="../IT312--Cyber%20Security">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT316</strong> — Scripting for Technology</td>
+      <td>Python Automation, Scripting</td>
+      <td><a href="../IT316-Scripting%20for%20Technology">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT330</strong> — Azure Technologies</td>
+      <td>Identity Roles, Azure Cloud</td>
+      <td><a href="../IT330-Azure%20Technologies">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT335</strong> — AWS Cloud Practitioner</td>
+      <td>Cloud Security & Compliance</td>
+      <td><a href="../IT335-AWS%20Cloud%20Practitioner">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT350</strong> — Network Config and Design</td>
+      <td>Advanced Network Routing</td>
+      <td><a href="../IT350-Network%20Configuration%20and%20Design">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT370</strong> — Advanced Linux</td>
+      <td>Linux Systems & Server Admin</td>
+      <td><a href="../IT370--Advanced%20Linux">View Files</a></td>
+    </tr>
+    <tr>
+      <td><strong>IT497</strong> — Capstone Project</td>
+      <td>IT Portfolio & Portfolio Integration</td>
+      <td><a href="../IT497-Capstone%20Project">View Files</a></td>
+    </tr>
+  </tbody>
+</table>---
 
 ## Navigation
 
