@@ -65,75 +65,76 @@ Designed, configured, and simulated localized and enterprise network environment
     <tr>
       <td><strong>BAP115</strong> — Microsoft Excel</td>
       <td>Data Analysis & Spreadsheets</td>
-      <td><a href="../BAP115">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/BAP115" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>CS104-002</strong> — Python Scripting</td>
       <td>Python, SQLite, JSON</td>
-      <td><a href="../CS104-002_FinalProject">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/CS104-002_FinalProject" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT125</strong> — Intro to Information Technology</td>
       <td>Systems & IT Concepts</td>
-      <td><a href="../IT125">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT125" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT143</strong> — DB Design and Analysis</td>
       <td>MS SQL Server, T-SQL</td>
-      <td><a href="../IT143-DB%20Design%20and%20Analysis">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT143-DB%20Design%20and%20Analysis" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT160</strong> — Cloud Computing Essentials</td>
       <td>Cloud Storage, Azure Basics</td>
-      <td><a href="../IT160-Cloud%20Computing%20Essentials">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT160-Cloud%20Computing%20Essentials" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT210</strong> — Linux Fundamentals</td>
       <td>Linux Administration, CLI</td>
-      <td><a href="../IT210-Linux%20Fundamentals">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT210-Linux%20Fundamentals" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT255</strong> — Networking Fundamentals</td>
       <td>Cisco Packet Tracer, Subnetting</td>
-      <td><a href="../IT255-Networking%20Fundamentals">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT255-Networking%20Fundamentals" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT312</strong> — Cyber Security</td>
       <td>Nmap, Wireshark, Security Audit</td>
-      <td><a href="../IT312--Cyber%20Security">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT312--Cyber%20Security" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT316</strong> — Scripting for Technology</td>
       <td>Python Automation, Scripting</td>
-      <td><a href="../IT316-Scripting%20for%20Technology">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT316-Scripting%20for%20Technology" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT330</strong> — Azure Technologies</td>
       <td>Identity Roles, Azure Cloud</td>
-      <td><a href="../IT330-Azure%20Technologies">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT330-Azure%20Technologies" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT335</strong> — AWS Cloud Practitioner</td>
       <td>Cloud Security & Compliance</td>
-      <td><a href="../IT335-AWS%20Cloud%20Practitioner">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT335-AWS%20Cloud%20Practitioner" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT350</strong> — Network Config and Design</td>
       <td>Advanced Network Routing</td>
-      <td><a href="../IT350-Network%20Configuration%20and%20Design">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT350-Network%20Configuration%20and%20Design" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT370</strong> — Advanced Linux</td>
       <td>Linux Systems & Server Admin</td>
-      <td><a href="../IT370--Advanced%20Linux">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT370--Advanced%20Linux" target="_blank">View Files</a></td>
     </tr>
     <tr>
       <td><strong>IT497</strong> — Capstone Project</td>
       <td>IT Portfolio & Portfolio Integration</td>
-      <td><a href="../IT497-Capstone%20Project">View Files</a></td>
+      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project" target="_blank">View Files</a></td>
     </tr>
   </tbody>
-</table>---
+</table>
+---
 
 ## Navigation
 
