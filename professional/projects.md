@@ -53,8 +53,24 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ## Coursework Files & Verification
 
-* **Google Drive Repository:** [Access All Coursework & Project Files](https://drive.google.com/drive/folders/12aM8tl1MrPdxj1GFzLmRm4v72EAe_HOq?usp=sharing)
+## Complete Coursework & Repository Directory
 
+| Course Code & Title | Primary Technologies | Link to Repository Folder |
+| :--- | :--- | :--- |
+| **BAP115** — Microsoft Excel | Data Analysis & Spreadsheets | [View Files](../BAP115) |
+| **CS104-002** — Python Scripting | Python, SQLite, JSON | [View Files](../CS104-002_FinalProject) |
+| **IT125** — Intro to Information Technology | Systems & IT Concepts | [View Files](../IT125) |
+| **IT143** — DB Design and Analysis | MS SQL Server, T-SQL | [View Files](../IT143-DB%20Design%20and%20Analysis) |
+| **IT160** — Cloud Computing Essentials | Cloud Storage, Azure Basics | [View Files](../IT160-Cloud%20Computing%20Essentials) |
+| **IT210** — Linux Fundamentals | Linux Administration, CLI | [View Files](../IT210-Linux%20Fundamentals) |
+| **IT255** — Networking Fundamentals | Cisco Packet Tracer, Subnetting | [View Files](../IT255-Networking%20Fundamentals) |
+| **IT312** — Cyber Security | Nmap, Wireshark, Security Audit | [View Files](../IT312--Cyber%20Security) |
+| **IT316** — Scripting for Technology | Python Automation, Scripting | [View Files](../IT316-Scripting%20for%20Technology) |
+| **IT330** — Azure Technologies | Identity Roles, Azure Cloud | [View Files](../IT330-Azure%20Technologies) |
+| **IT335** — AWS Cloud Practitioner | Cloud Security & Compliance | [View Files](../IT335-AWS%20Cloud%20Practitioner) |
+| **IT350** — Network Config and Design | Advanced Network Routing | [View Files](../IT350-Network%20Configuration%20and%20Design) |
+| **IT370** — Advanced Linux | Linux Systems & Server Admin | [View Files](../IT370--Advanced%20Linux) |
+| **IT497** — Capstone Project | IT Portfolio & Portfolio Integration | [View Files](../IT497-Capstone%20Project) |
 ---
 
 ## Navigation
