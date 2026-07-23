@@ -49,25 +49,25 @@ Through my coursework and hands-on projects, I specialize in database developmen
 ## Coursework Folders & Source Repositories
 
 ### Business & Computer Science
-* 📁 **[BAP115 - Microsoft Excel](BAP115)**
-* 📁 **[CS104-002 - Python Scripting / Final Project](CS104-002_FinalProject)**
+* 📁 **[BAP115 - Microsoft Excel](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/BAP115)**
+* 📁 **[CS104-002 - Python Scripting](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/CS104-002_FinalProject)**
 
 ### Core IT & Databases
-* 📁 **[IT125 - Introduction to Information Technology](IT125)**
-* 📁 **[IT143 - DB Design and Analysis (SQL Server)](IT143-DB%20Design%20and%20Analysis)**
+* 📁 **[IT125 - Intro to IT](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT125)**
+* 📁 **[IT143 - DB Design & Analysis](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT143-DB%20Design%20and%20Analysis)**
 
 ### Networking & Systems Administration
-* 📁 **[IT160 - Cloud Computing Essentials](IT160-Cloud%20Computing%20Essentials)**
-* 📁 **[IT210 - Linux Fundamentals](IT210-Linux%20Fundamentals)**
-* 📁 **[IT255 - Networking Fundamentals](IT255-Networking%20Fundamentals)**
-* 📁 **[IT350 - Network Configuration and Design](IT350-Network%20Configuration%20and%20Design)**
-* 📁 **[IT370 - Advanced Linux](IT370--Advanced%20Linux)**
+* 📁 **[IT160 - Cloud Computing Essentials](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT160-Cloud%20Computing%20Essentials)**
+* 📁 **[IT210 - Linux Fundamentals](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT210-Linux%20Fundamentals)**
+* 📁 **[IT255 - Networking Fundamentals](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT255-Networking%20Fundamentals)**
+* 📁 **[IT350 - Network Configuration and Design](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT350-Network%20Configuration%20and%20Design)**
+* 📁 **[IT370 - Advanced Linux](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT370--Advanced%20Linux)**
 
 ### Security, Scripting & Cloud Technologies
-* 📁 **[IT312 - Cyber Security](IT312--Cyber%20Security)**
-* 📁 **[IT316 - Scripting for Technology](IT316-Scripting%20for%20Technology)**
-* 📁 **[IT330 - Azure Technologies](IT330-Azure%20Technologies)**
-* 📁 **[IT335 - AWS Cloud Practitioner](IT335-AWS%20Cloud%20Practitioner)**
+* 📁 **[IT312 - Cyber Security](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT312--Cyber%20Security)**
+* 📁 **[IT316 - Scripting for Technology](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT316-Scripting%20for%20Technology)**
+* 📁 **[IT330 - Azure Technologies](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT330-Azure%20Technologies)**
+* 📁 **[IT335 - AWS Cloud Practitioner](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT335-AWS%20Cloud%20Practitioner)**
 
 ### Program Capstone
-* 📁 **[IT497 - Capstone Project](IT497-Capstone%20Project)**
+* 📁 **[IT497 - Capstone Project](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project)**
