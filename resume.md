@@ -18,6 +18,7 @@ Detail-oriented and analytical Information Technology professional pursuing a Ba
 ### **Ensign College / BYU-Pathway Worldwide**
 **Bachelor of Applied Technology in Information Technology**
 * **Relevant Coursework:** Database Development (IT143), Python Automation (CS104/IT316), Network Fundamentals (IT160/IT210), Cybersecurity Principles (IT312), Cloud Administration (IT370), Portfolio Capstone (IT497).
+* **Expected Graduation Date:** 2028
 
 ---
 
