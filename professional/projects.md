@@ -51,8 +51,6 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ---
 
-## Coursework Files & Verification
-
 <h2>Complete Coursework & Repository Directory</h2>
 
 <table>
