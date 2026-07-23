@@ -44,7 +44,8 @@ Designed, configured, and simulated localized and enterprise network environment
 * **Core Competencies:** IP Subnetting, Routing Protocols, Access Control Lists (ACLs), Azure Storage, Virtualization.
 * **Demonstration Videos:**
   * 📹 [Network Infrastructure Lab Demo 1](https://vimeo.com/1182783917/a885789a23)
-  * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f)
+  * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f).
+  * 📹[Network Infrastructure Lab Demo 3](https://vimeo.com/1173643860/8a4df824f8).
 
 ---
 
