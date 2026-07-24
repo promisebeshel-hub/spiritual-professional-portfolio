@@ -44,10 +44,10 @@ Designed, configured, and simulated localized and enterprise network environment
 * **Core Competencies:** IP Subnetting, Routing Protocols, Access Control Lists (ACLs), Azure Storage, Virtualization.
 * **Demonstration Videos:**
   * 📹 [Network Infrastructure Lab Demo 1](https://vimeo.com/1182783917/a885789a23)
-  * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f).
-  * 📹[Network Infrastructure Lab Demo 3](https://vimeo.com/1173643860/8a4df824f8).
-  * 📹[Azure Demo 1](https://vimeo.com/1209346092?share=copy&fl=sv&fe=ci).
-  * 📹[Azure Demo 2](https://vimeo.com/1211081451?share=copy&fl=sv&fe=ci).
+  * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f)
+  * 📹 [Network Infrastructure Lab Demo 3](https://vimeo.com/1173643860/8a4df824f8)
+  * 📹 [Azure Demo 1](https://vimeo.com/1209346092?share=copy&fl=sv&fe=ci)
+  * 📹 [Azure Demo 2](https://vimeo.com/1211081451?share=copy&fl=sv&fe=ci)
 
 ---
 
@@ -129,11 +129,53 @@ Designed, configured, and simulated localized and enterprise network environment
     </tr>
     <tr>
       <td><strong>IT497</strong> — Capstone Project</td>
-      <td>IT Portfolio Integration</td>
+      <td>Portfolio Integration & Reflections</td>
       <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project" target="_blank">Browse Files</a></td>
     </tr>
   </tbody>
 </table>
+
+---
+
+<h2>IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
+
+<!-- WEEK 1 DROPDOWN -->
+<details>
+  <summary><strong>🗓️ Week 1: Foundation & Alignment (Click to Expand)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Task 1 (Goals & Questions):</strong> Established three SMART goals focused on earning the AWS Certified Cloud Practitioner credential, implementing Agile/Scrum methodologies for project delivery, and writing weekly spiritual journal entries. Recorded a video addressing key questions on aligning technical skills with spiritual growth and community empowerment.</li>
+    <li><strong>Task 2 (Spiritual Principles):</strong> Identified and documented three foundational guiding principles: <em>Integrity in Stewardship</em>, <em>Continuous Revelation and Learning</em>, and <em>Empowering Others through Servant Leadership</em>. Compiled supporting materials from scriptures (D&C, Patriarchal Blessing) and General Conference talks.</li>
+    <li><strong>Task 3 (Professional Foundation):</strong> Initiated the reflective journal connecting technical operations to spiritual responsibility. Compiled summaries of major IT projects, including founding <em>Besprotech Solutions Ltd Hub</em>, optimizing telecom facility <em>YEN036</em>, and designing AWS cloud study architectures.</li>
+  </ul>
+</details>
+
+<hr>
+
+<!-- WEEK 2 DROPDOWN -->
+<details>
+  <summary><strong>🗓️ Week 2: Deepening Engagement & Platform Planning (Click to Expand)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Spiritual Portfolio Expansion:</strong> Categorized spiritual assets into two core themes: <em>Stewardship and Accountability in Technical Domains</em> (D&C 58:27–28, Alma 37:37, Elder Bednar's talk) and <em>Continuous Iteration and Revelation</em> (2 Nephi 28:30, President Nelson's talk, personal mentorship reflections).</li>
+    <li><strong>Platform & Layout Selection:</strong> Selected an AWS-hosted WordPress platform (deployed via EC2/S3) to serve as both a portfolio display and a practical artifact of cloud architecture skills. Structured the site navigation into five clear pages: <em>Home</em>, <em>Professional Competencies</em>, <em>The Disciple-Leader</em>, <em>Leadership & Development</em>, and <em>Digital Resume</em>.</li>
+    <li><strong>Ethical Dilemma Research:</strong> Researched and documented a major IT ethical breach—the 2019 Capital One data breach involving Server-Side Request Forgery (SSRF) and misconfigured AWS S3 buckets—analyzing the roles, response, and moral implications of administrative privileges.</li>
+  </ul>
+</details>
+
+<hr>
+
+<!-- WEEK 3 DROPDOWN -->
+<details>
+  <summary><strong>🗓️ Week 3: Content Development & Synthesis (Click to Expand)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Guiding Principles & Content Creation:</strong> Solidified and articulated the three guiding principles across both portfolios. Finalized core professional content, including an introduction, a tailored IT résumé, and project descriptions linking technical achievements to spiritual growth.</li>
+    <li><strong>Ethical Dilemma Analysis:</strong> Completed a formal analysis of the Capital One breach, contrasting technical acumen with the necessity of moral integrity and strict security governance.</li>
+    <li><strong>Temple Reflection & Integration:</strong> Participated in a deep reflection (including temple attendance), documenting how gospel covenants, Elder Bednar’s "intertwined strands" analogy, and professional IT capabilities unite to form a cohesive disciple-leader identity.</li>
+  </ul>
+</details>
+
 ---
 
 ## Navigation
