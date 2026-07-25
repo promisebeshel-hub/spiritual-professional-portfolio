@@ -139,8 +139,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <h2>IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
 
-<!-- WEEK 1 DROPDOWN -->
-<details>
+<details id="week-1">
   <summary><strong>🗓️ Week 1: Foundation & Alignment (Click to Expand)</strong></summary>
   <br>
   <ul>
@@ -152,8 +151,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <hr>
 
-<!-- WEEK 2 DROPDOWN -->
-<details>
+<details id="week-2">
   <summary><strong>🗓️ Week 2: Deepening Engagement & Platform Planning (Click to Expand)</strong></summary>
   <br>
   <ul>
@@ -165,8 +163,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <hr>
 
-<!-- WEEK 3 DROPDOWN -->
-<details>
+<details id="week-3">
   <summary><strong>🗓️ Week 3: Content Development & Synthesis (Click to Expand)</strong></summary>
   <br>
   <ul>
@@ -178,7 +175,6 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <hr>
 
-<!-- WEEK 4 DROPDOWN -->
 <details id="week-4">
   <summary><strong>🗓️ Week 4: Expansion, Deepening & Project Refinement (Click to Expand)</strong></summary>
   <br>
@@ -205,6 +201,7 @@ Designed, configured, and simulated localized and enterprise network environment
     </li>
   </ul>
 </details>
+
 ---
 
 ## Navigation
