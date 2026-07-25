@@ -186,6 +186,27 @@ Designed, configured, and simulated localized and enterprise network environment
     <li>
       <strong>Step 1 — Task 1 (Agency & Video Reflection):</strong>
       <p style="margin-top: 5px;">Recorded a video reflection analyzing personal agency (D&C 58:26–28) in career development and expanded spiritual citations with 5 additional scripture entries.</p>
+      
+      <!-- INLINE CONTENT: VIDEO PLAYER & DOWNLOAD -->
+      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #17a2b8;">
+        <summary style="cursor: pointer;"><strong>🎬 Watch Video Reflection: Personal Agency & Systems Engineering</strong></summary>
+        <div style="margin-top: 10px; padding: 5px;">
+          
+          <!-- EMBEDDED VIDEO PLAYER -->
+          <video controls width="100%" style="max-width: 650px; border-radius: 5px; border: 1px solid #ccc;">
+            <source src="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+
+          <!-- DIRECT DOWNLOAD LINK -->
+          <div style="margin-top: 10px; padding: 8px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px; width: fit-content;">
+            🔗 <a href="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" download target="_blank">
+              <strong>Download Video File (.mp4)</strong>
+            </a>
+          </div>
+
+        </div>
+      </details>
     </li>
     
     <br>
