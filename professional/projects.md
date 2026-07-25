@@ -15,9 +15,28 @@ Designed and implemented relational database systems using **Microsoft SQL Serve
 * **Key Deliverables:** SQL scripts (`.sql`), relational architecture diagrams, and data analysis presentations.
 * **Core Competencies:** Schema design, primary/foreign key constraints, views, stored procedures, and query optimization.
 * **Demonstration Videos:**
-  * 📹 [IT143 Lab Demonstration 1](https://vimeo.com/1209346092)
-  * 📹 [IT143 Lab Demonstration 2](https://vimeo.com/1211081451)
-  * 📹 [IT143 Lab Demonstration 3](https://vimeo.com/1209343195)
+
+<details>
+  <summary>🎬 <strong>Play IT143 Lab Demonstration 1</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1209346092" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play IT143 Lab Demonstration 2</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1211081451" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play IT143 Lab Demonstration 3</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1209343195" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
 
 ---
 
@@ -31,8 +50,20 @@ Developed an automated database pipeline using **Python** and **SQLite** to prog
   * `show_records.py`: Formats and displays database content.
   * `people.db`: SQLite database target.
 * **Demonstration Videos:**
-  * 📹 [CS104 Python/SQLite Pipeline Demo 1](https://vimeo.com/1183551441/e3b38920ed)
-  * 📹 [CS104 Python/SQLite Pipeline Demo 2](https://vimeo.com/1183543045/57a4107d2b)
+
+<details>
+  <summary>🎬 <strong>Play CS104 Python/SQLite Pipeline Demo 1</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1183551441?h=e3b38920ed" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play CS104 Python/SQLite Pipeline Demo 2</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1183543045?h=57a4107d2b" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
 
 ---
 
@@ -43,12 +74,44 @@ Designed, configured, and simulated localized and enterprise network environment
 * **Key Deliverables:** Network topology configurations, subnetting designs, router/switch command-line setup, Azure Security Groups, Users, and Azure storage/VM administration runbooks.
 * **Core Competencies:** IP Subnetting, Routing Protocols, Access Control Lists (ACLs), Azure Storage, Virtualization.
 * **Demonstration Videos:**
-  * 📹 [Network Infrastructure Lab Demo 1](https://vimeo.com/1182783917/a885789a23)
-  * 📹 [Network Infrastructure Lab Demo 2](https://vimeo.com/1177064145/196748035f)
-  * 📹 [Network Infrastructure Lab Demo 3](https://vimeo.com/1173643860/8a4df824f8)
-  * 📹 [Azure Demo 1](https://vimeo.com/1209346092?share=copy&fl=sv&fe=ci)
-  * 📹 [Azure Demo 2](https://vimeo.com/1211081451?share=copy&fl=sv&fe=ci)
 
+<details>
+  <summary>🎬 <strong>Play Network Infrastructure Lab Demo 1</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1182783917?h=a885789a23" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play Network Infrastructure Lab Demo 2</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1177064145?h=196748035f" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play Network Infrastructure Lab Demo 3</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1173643860?h=8a4df824f8" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play Azure Demo 1</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1209346092" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>Play Azure Demo 2</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1211081451" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
 ---
 
 <h2>Complete Coursework & Repository Directory</h2>
