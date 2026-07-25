@@ -58,6 +58,7 @@ Through my coursework and hands-on projects, I specialize in database developmen
 ## Contact & Connect
 
 * **GitHub Repository:** [promisebeshel-hub/spiritual-professional-portfolio](https://github.com/promisebeshel-hub/spiritual-professional-portfolio)
+* **LinkedIn:** [Promise Beshel](https://ng.linkedin.com/in/promisebeshel)
 
   
 ## Coursework Folders & Source Repositories
