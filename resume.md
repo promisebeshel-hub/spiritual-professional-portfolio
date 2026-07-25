@@ -16,18 +16,16 @@ Detail-oriented and analytical Information Technology professional pursuing a Ba
 ## Education
 
 ### **Ensign College / BYU-Pathway Worldwide**
-**Bachelor of Applied Technology in Information Technology**
+**Bachelor of Applied Technology in Information Technology** | Ensign College, Salt Lake City, UT (Expected Graduation: [2028]
 * **Relevant Coursework:** Database Development (IT143), Python Automation (CS104/IT316), Network Fundamentals (IT160/IT210), Cybersecurity Principles (IT312), Cloud Administration (IT370), Portfolio Capstone (IT497).
-* **Expected Graduation Date:** 2028
 
-### **Ensign College / BYU-Pathway Worldwide**
 **Associate of Applied Science in Information Technology** | Ensign College, Salt Lake City, UT (Expected Graduation: [2026])
 * **Relevant Coursework:** Introduction to Networking, Relational Databases, Cybersecurity Fundamentals, Professional Ethics.
 
 ### **Academic Projects & Experience**
 * IT Help Desk Support Volunteer | Besprotech Solutions Ltd. (Fall 2025)
-* o	Assisted peers and faculty with hardware configurations, password resets, and software installation issues.
-* o	Maintained a 95% resolution satisfaction rate by applying proactive communication skills.
+  o	* Assisted peers and faculty with hardware configurations, password resets, and software installation issues.
+  o	* Maintained a 95% resolution satisfaction rate by applying proactive communication skills.
 
 ---
 
