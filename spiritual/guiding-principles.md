@@ -34,7 +34,7 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 ---
 
 <details id="week-4-principles">
-  <summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 4: Expanded Alignment & Complete APA References (Click to Expand)</strong></summary>
+  <summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 4: Expanded Alignment & Complete References (Click to Expand)</strong></summary>
 
 ### Principle 1: Integrity in Stewardship
 * **Core Principle:** Applying exactness, honesty, and continuous care in managing technical systems and digital resources.
