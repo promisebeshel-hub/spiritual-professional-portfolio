@@ -176,6 +176,35 @@ Designed, configured, and simulated localized and enterprise network environment
   </ul>
 </details>
 
+<hr>
+
+<!-- WEEK 4 DROPDOWN -->
+<details id="week-4">
+  <summary><strong>🗓️ Week 4: Expansion, Deepening & Project Refinement (Click to Expand)</strong></summary>
+  <br>
+  <ul>
+    <li>
+      <strong>Step 1 — Task 1 (Agency & Video Reflection):</strong> 
+      Recorded a video reflection analyzing personal agency (D&C 58:26–28) in career development and expanded spiritual citations with 5 additional scripture entries.
+    </li>
+    <li>
+      <strong>Step 2 — Task 2 (Spiritual Portfolio Expansion & Alignment):</strong> 
+      Formulated an in-depth alignment showing how technical competencies in Zero Trust security, cloud automation, and network exactness directly fulfill spiritual commitments to stewardship.
+      <br>👉 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/spiritual/guiding-principles.md" target="_blank">View Expanded Spiritual Principles</a>
+    </li>
+    <li>
+      <strong>Step 3 — Task 3 (Ethical Dilemma Alternative):</strong> 
+      Developed a DevSecOps & Zero-Trust alternative approach to the 2019 Capital One breach, demonstrating how automated policy enforcement and Least Privilege access uphold organizational ethics.
+      <br>👉 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/professional/ethical-analysis.md" target="_blank">View Ethical Alternative Analysis</a>
+    </li>
+    <li>
+      <strong>Step 4 — Task 4 (IT Project Refinement & Peer Review):</strong> 
+      Completed a comprehensive peer review for Mirabel's cloud proposal and refined the IT370 capstone proposal into <em>Heritage Vault 2.1</em>.
+      <br>📁 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.1.md" target="_blank">View Refinement Proposal (Heritage Vault 2.1)</a>
+      <br>📄 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Peer_Review_Evaluation_mirabel.pdf" target="_blank">View Completed Peer Review (Mirabel)</a>
+    </li>
+  </ul>
+</details>
 ---
 
 ## Navigation
