@@ -1,6 +1,6 @@
 # Welcome to My Spiritual & Professional IT Portfolio
 
-Welcome! I am an Information Technology student and systems practitioner dedicated to uniting technical excellence with disciple-leadership. My work centers on database architecture, Zero Trust cloud security, automated infrastructure provisioning, and ethical IT stewardship.
+Welcome! I am **Promise Beeshel,** an Information Technology student and systems practitioner dedicated to uniting technical excellence with disciple-leadership. My work centers on database architecture, Zero Trust cloud security, automated infrastructure provisioning, and ethical IT stewardship.
 
 ---
 
