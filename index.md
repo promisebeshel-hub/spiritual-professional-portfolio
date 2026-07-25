@@ -35,9 +35,23 @@ Through my coursework and hands-on projects, I specialize in database developmen
 
 ## Featured Video Demonstrations
 
-* 📹 **IT143 Database Walkthrough:** [Watch on Vimeo](https://vimeo.com/1209346092)
-* 📹 **CS104 Python/SQLite Pipeline:** [Watch on Vimeo](https://vimeo.com/1183551441/e3b38920ed)
-* 📹 **IT160 Network Infrastructure Lab:** [Watch on Vimeo](https://vimeo.com/1182783917/a885789a23)
+<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
+  <summary style="cursor: pointer;">🎥 <strong>IT143 Database Walkthrough</strong> (Click to Play)</summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1209346092" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
+  <summary style="cursor: pointer;">🎥 <strong>CS104 Python/SQLite Pipeline</strong> (Click to Play)</summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1183551441?h=e3b38920ed" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
+  <summary style="cursor: pointer;">🎥 <strong>IT160 Network Infrastructure Lab</strong> (Click to Play)</summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1182783917?h=a885789a23" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
 
 ---
 
