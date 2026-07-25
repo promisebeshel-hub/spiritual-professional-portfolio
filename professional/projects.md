@@ -187,203 +187,211 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <h2 id="it497-capstone">IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
 
-<details id="week-1">
-  <summary><strong>🗓️ Week 1: Foundation & Alignment (Click to Expand)</strong></summary>
-  <br>
-  <ul>
-    <li><strong>Task 1 (Goals & Questions):</strong> Established three SMART goals focused on earning the AWS Certified Cloud Practitioner credential, implementing Agile/Scrum methodologies for project delivery, and writing weekly spiritual journal entries. Recorded a video addressing key questions on aligning technical skills with spiritual growth and community empowerment.</li>
-    <li><strong>Task 2 (Spiritual Principles):</strong> Identified and documented three foundational guiding principles: <em>Integrity in Stewardship</em>, <em>Continuous Revelation and Learning</em>, and <em>Empowering Others through Servant Leadership</em>. Compiled supporting materials from scriptures (D&C, Patriarchal Blessing) and General Conference talks.</li>
-    <li><strong>Task 3 (Professional Foundation):</strong> Initiated the reflective journal connecting technical operations to spiritual responsibility. Compiled summaries of major IT projects, including founding <em>Besprotech Solutions Ltd Hub</em>, optimizing telecom facility <em>YEN036</em>, and designing AWS cloud study architectures.</li>
-  </ul>
+<!-- WEEK 1 -->
+<details id="week-1" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 1: Foundation, Alignment & Personal Agency (Click to Expand)</strong></summary>
+
+<br>
+
+* **Step 1 — Task 1 (Goals & Personal Agency Alignment):**
+  * *Task Executed:* Established three SMART goals focused on earning technical certifications, implementing Agile methodologies, and maintaining weekly spiritual retrospectives. Recorded an introductory video reflection.
+  * 💭 *Reflective Synthesis:* Setting technical targets without spiritual intentionality often leads to mechanical task execution rather than meaningful growth. Aligning certification goals with D&C 58:26–28 shifted my perspective from merely "completing assignments" to proactively exercising personal agency as a digital steward.
+
+* **Step 2 — Task 2 (Foundational Guiding Principles):**
+  * *Task Executed:* Identified and documented three core guiding principles: *Integrity in Stewardship*, *Continuous Revelation and Learning*, and *Empowering Others through Servant Leadership*.
+  * 💭 *Reflective Synthesis:* Defining these principles provided a spiritual compass for evaluating technical decisions. I realized that technical precision—whether writing SQL queries or configuring subnet masks—is a direct reflection of personal integrity and covenant stewardship.
+
+* **Step 3 — Task 3 (Professional Foundation & Portfolio Setup):**
+  * *Task Executed:* Initiated the reflective portfolio repository, connecting technical operations across database development and network engineering with spiritual responsibility.
+  * 💭 *Reflective Synthesis:* Establishing a public, unified portfolio challenged me to break down the false division between professional ambition and spiritual conviction. It taught me that my digital footprint should authentically testify of my values.
 </details>
 
 <hr>
 
-<details id="week-2">
-  <summary><strong>🗓️ Week 2: Deepening Engagement & Platform Planning (Click to Expand)</strong></summary>
-  <br>
-  <ul>
-    <li><strong>Spiritual Portfolio Expansion:</strong> Categorized spiritual assets into two core themes: <em>Stewardship and Accountability in Technical Domains</em> (D&C 58:27–28, Alma 37:37, Elder Bednar's talk) and <em>Continuous Iteration and Revelation</em> (2 Nephi 28:30, President Nelson's talk, personal mentorship reflections).</li>
-    <li><strong>Platform & Layout Selection:</strong> Selected an AWS-hosted WordPress platform (deployed via EC2/S3) to serve as both a portfolio display and a practical artifact of cloud architecture skills. Structured the site navigation into five clear pages: <em>Home</em>, <em>Professional Competencies</em>, <em>The Disciple-Leader</em>, <em>Leadership & Development</em>, and <em>Digital Resume</em>.</li>
-    <li><strong>Ethical Dilemma Research:</strong> Researched and documented a major IT ethical breach—the 2019 Capital One data breach involving Server-Side Request Forgery (SSRF) and misconfigured AWS S3 buckets—analyzing the roles, response, and moral implications of administrative privileges.</li>
-  </ul>
+<!-- WEEK 2 -->
+<details id="week-2" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 2: Deepening Engagement & Platform Governance (Click to Expand)</strong></summary>
+
+<br>
+
+* **Step 1 — Task 1 (Systems Analysis & Strategic Goal Refinement):**
+  * *Task Executed:* Evaluated system architecture requirements and refined capstone milestone deliverables.
+  * 💭 *Reflective Synthesis:* Analyzing complex systems highlighted how small oversights in architecture can cascade into major operational vulnerabilities. This reinforced Alma 37:37—that seeking divine guidance in professional planning brings clarity and order to complex engineering problems.
+
+* **Step 2 — Task 2 (Ethical Governance & Data Privacy Analysis):**
+  * *Task Executed:* Examined ethical guidelines governing data storage, user privacy, and system security in cloud platforms.
+  * 💭 *Reflective Synthesis:* True ethical engineering goes beyond regulatory compliance; it requires genuine empathy for the end user. Designing storage systems with privacy safeguards reflects King Benjamin’s teaching on servant leadership (Mosiah 2:17) by actively protecting those who entrust their data to our systems.
+
+* **Step 3 — Task 3 (Technical Documentation & Knowledge Sharing):**
+  * *Task Executed:* Structured technical runbooks and documentation pipelines for team review.
+  * 💭 *Reflective Synthesis:* Writing clear documentation is an act of servant leadership. It humbled me to realize that code and infrastructure should not be built for personal prestige, but rather structured so that future engineers can easily understand, maintain, and build upon the work.
 </details>
 
 <hr>
 
-<details id="week-3">
-  <summary><strong>🗓️ Week 3: Content Development & Synthesis (Click to Expand)</strong></summary>
-  <br>
-  <ul>
-    <li><strong>Guiding Principles & Content Creation:</strong> Solidified and articulated the three guiding principles across both portfolios. Finalized core professional content, including an introduction, a tailored IT résumé, and project descriptions linking technical achievements to spiritual growth.</li>
-    <li><strong>Ethical Dilemma Analysis:</strong> Completed a formal analysis of the Capital One breach, contrasting technical acumen with the necessity of moral integrity and strict security governance.</li>
-    <li><strong>Temple Reflection & Integration:</strong> Participated in a deep reflection (including temple attendance), documenting how gospel covenants, Elder Bednar’s "intertwined strands" analogy, and professional IT capabilities unite to form a cohesive disciple-leader identity.</li>
-  </ul>
+<!-- WEEK 3 -->
+<details id="week-3" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 3: Ethical Evaluation & Architectural Refinement (Click to Expand)</strong></summary>
+
+<br>
+
+* **Step 1 — Task 1 (Capital One Ethical Breach Analysis):**
+  * *Task Executed:* Conducted a root-cause analysis of the 2019 Capital One security incident and authored an ethical alternative proposal.
+  * 💭 *Reflective Synthesis:* Investigating this breach revealed how systemic neglect and unchecked privilege escalation compromise public trust. It deepened my conviction that cloud engineers bear a moral obligation to advocate for Zero Trust architectures and automated security controls, ensuring institutional integrity over convenience.
+
+* **Step 2 — Task 2 (Scriptural Integration & Continuous Learning):**
+  * *Task Executed:* Compiled scriptural citations connecting technical exactness with spiritual growth (2 Nephi 28:30).
+  * 💭 *Reflective Synthesis:* Reflecting on line-upon-line progression helped me reframe technical failures and debugging roadblocks. Rather than viewing errors as failures, I now recognize them as necessary stepping stones in the continuous revelation and learning process.
+
+* **Step 3 — Task 3 (Peer Review Preparation & Collaboration):**
+  * *Task Executed:* Exchanged proposal drafts for peer evaluation and incorporated constructive feedback.
+  * 💭 *Reflective Synthesis:* Receiving and offering peer feedback required humility and active listening. It demonstrated that collaborative engineering succeeds when team members lift where they stand (Uchtdorf, 2008), prioritizing collective excellence over personal pride.
 </details>
 
 <hr>
 
 <!-- WEEK 4 DROPDOWN -->
-<details id="week-4">
-  <summary><strong>🗓️ Week 4: Expansion, Deepening & Project Refinement (Click to Expand)</strong></summary>
+<details id="week-4" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 4: Expansion, Deepening & Project Refinement (Click to Expand)</strong></summary>
+
+<br>
+
+<ul style="line-height: 1.8;">
+  <!-- STEP 1 -->
+  <li>
+    <strong>Step 1 — Task 1 (Agency & Video Reflection):</strong>
+    <p style="margin-top: 5px;">Recorded a video reflection analyzing personal agency (D&C 58:26–28) in career development and expanded spiritual citations with 5 additional scripture entries.</p>
+    
+    <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #17a2b8;">
+      <summary style="cursor: pointer;"><strong>🎬 Watch Video Reflection: Personal Agency & Systems Engineering</strong></summary>
+      <div style="margin-top: 10px; padding: 5px;">
+        <video controls width="100%" style="max-width: 650px; border-radius: 5px; border: 1px solid #ccc;">
+          <source src="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <div style="margin-top: 10px; padding: 8px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px; width: fit-content;">
+          🔗 <a href="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" download target="_blank"><strong>Download Video File (.mp4)</strong></a>
+        </div>
+      </div>
+    </details>
+  </li>
+
   <br>
-  
-  <ul style="line-height: 1.8;">
+
+  <!-- STEP 2 -->
+  <li>
+    <strong>Step 2 — Task 2 (Spiritual Portfolio Expansion & Alignment):</strong>
+    <p style="margin-top: 5px;">Formulated an in-depth alignment showing how technical competencies in Zero Trust security, cloud automation, and network exactness directly fulfill spiritual commitments to stewardship.</p>
     
-    <!-- STEP 1 -->
-    <li>
-      <strong>Step 1 — Task 1 (Agency & Video Reflection):</strong>
-      <p style="margin-top: 5px;">Recorded a video reflection analyzing personal agency (D&C 58:26–28) in career development and expanded spiritual citations with 5 additional scripture entries.</p>
-      
-      <!-- INLINE CONTENT: VIDEO PLAYER & DOWNLOAD -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #17a2b8;">
-        <summary style="cursor: pointer;"><strong>🎬 Watch Video Reflection: Personal Agency & Systems Engineering</strong></summary>
-        <div style="margin-top: 10px; padding: 5px;">
-          
-          <!-- EMBEDDED VIDEO PLAYER -->
-          <video controls width="100%" style="max-width: 650px; border-radius: 5px; border: 1px solid #ccc;">
-            <source src="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
+    <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
+      <summary style="cursor: pointer;"><strong>👉 View Expanded Spiritual Principles & Alignment</strong></summary>
+      <div style="margin-top: 10px; padding: 5px;">
+        <h4>1. Stewardship & Accountability in Technical Domains</h4>
+        <p><strong>Scriptures:</strong> D&C 58:27–28, Alma 37:37</p>
+        <p>When managing telecommunications infrastructure or setting up cloud storage repositories, a minor misconfiguration can disrupt critical services or expose private data. Alma's counsel to <em>"counsel with the Lord in all thy doings"</em> reminds me that technical precision is an expression of stewardship. Maintaining exactness under tight deadlines is both an engineering necessity and an act of personal integrity.</p>
+        
+        <h4>2. Continuous Iteration & Revelation</h4>
+        <p><strong>Scriptures:</strong> 2 Nephi 28:30 | <strong>Speaker:</strong> President Russell M. Nelson ("Make Time for the Lord")</p>
+        <p>Software engineering and cloud architecture rely on continuous iteration. In my career, I don't need every architectural detail perfected on day one; I need the faith to deploy the first iteration and adapt. President Nelson's call to isolate time for the Lord keeps me grounded, ensuring that amid server deployments and terminal sessions, I prioritize daily spiritual retrospectives.</p>
+        
+        <h4>3. Professional Alignment Summary</h4>
+        <ul>
+          <li><strong>Network & Systems Exactness → Moral Integrity:</strong> Applying default-drop firewall rules, SELinux policies, and Least Privilege access control is the technical equivalent of keeping digital covenants.</li>
+          <li><strong>Cloud Architecture & Automation → Ecosystem Stewardship:</strong> Just as an AWS cloud architecture requires balance, load management, and disaster recovery, a disciple's life requires boundary-setting and load-balancing to serve others effectively.</li>
+        </ul>
+      </div>
+    </details>
+  </li>
 
-          <!-- DIRECT DOWNLOAD LINK -->
-          <div style="margin-top: 10px; padding: 8px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px; width: fit-content;">
-            🔗 <a href="https://raw.githubusercontent.com/promisebeshel-hub/spiritual-professional-portfolio/main/IT497-Capstone%20Project/Week_04/Wk4_Personal_Agency_Disciple_Leadership_and_Systems_Engineering.mp4" download target="_blank">
-              <strong>Download Video File (.mp4)</strong>
-            </a>
-          </div>
+  <br>
 
-        </div>
-      </details>
-    </li>
+  <!-- STEP 3 -->
+  <li>
+    <strong>Step 3 — Task 3 (Ethical Dilemma Alternative):</strong>
+    <p style="margin-top: 5px;">Developed a DevSecOps & Zero-Trust alternative approach to the 2019 Capital One breach, demonstrating how automated policy enforcement and Least Privilege access uphold organizational ethics.</p>
     
-    <br>
+    <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
+      <summary style="cursor: pointer;"><strong>👉 View Ethical Alternative Analysis (Capital One Breach)</strong></summary>
+      <div style="margin-top: 10px; padding: 5px;">
+        <h4>Essential Ethical Principles</h4>
+        <ul>
+          <li><strong>Stewardship & Data Privacy:</strong> Protecting sensitive user data as a sacred trust, going beyond minimum legal baselines.</li>
+          <li><strong>Accountability & Least Privilege:</strong> Restricting administrative power to ensure no single entity can exploit system configurations unmonitored.</li>
+          <li><strong>Transparency & Moral Integrity:</strong> Placing human safety and ethical governance ahead of operational convenience.</li>
+        </ul>
 
-    <!-- STEP 2 -->
-    <li>
-      <strong>Step 2 — Task 2 (Spiritual Portfolio Expansion & Alignment):</strong>
-      <p style="margin-top: 5px;">Formulated an in-depth alignment showing how technical competencies in Zero Trust security, cloud automation, and network exactness directly fulfill spiritual commitments to stewardship.</p>
-      
-      <!-- INLINE CONTENT: SPIRITUAL PRINCIPLES -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
-        <summary style="cursor: pointer;"><strong>👉 View Expanded Spiritual Principles & Alignment</strong></summary>
-        <div style="margin-top: 10px; padding: 5px;">
-          <h4>1. Stewardship & Accountability in Technical Domains</h4>
-          <p><strong>Scriptures:</strong> D&C 58:27–28, Alma 37:37</p>
-          <p>When managing telecommunications infrastructure or setting up cloud storage repositories, a minor misconfiguration can disrupt critical services or expose private data. Alma's counsel to <em>"counsel with the Lord in all thy doings"</em> reminds me that technical precision is an expression of stewardship. Maintaining exactness under tight deadlines is both an engineering necessity and an act of personal integrity.</p>
-          
-          <h4>2. Continuous Iteration & Revelation</h4>
-          <p><strong>Scriptures:</strong> 2 Nephi 28:30 | <strong>Speaker:</strong> President Russell M. Nelson ("Make Time for the Lord")</p>
-          <p>Software engineering and cloud architecture rely on continuous iteration. In my career, I don't need every architectural detail perfected on day one; I need the faith to deploy the first iteration and adapt. President Nelson's call to isolate time for the Lord keeps me grounded, ensuring that amid server deployments and terminal sessions, I prioritize daily spiritual retrospectives.</p>
-          
-          <h4>3. Professional Alignment Summary</h4>
-          <ul>
-            <li><strong>Network & Systems Exactness → Moral Integrity:</strong> Applying default-drop firewall rules, SELinux policies, and Least Privilege access control is the technical equivalent of keeping digital covenants.</li>
-            <li><strong>Cloud Architecture & Automation → Ecosystem Stewardship:</strong> Just as an AWS cloud architecture requires balance, load management, and disaster recovery, a disciple's life requires boundary-setting and load-balancing to serve others effectively.</li>
+        <h4>Proposed Alternative Solution</h4>
+        <p>Instead of relying on manual security checks or broad administrative permissions, the organization should have implemented <strong>DevSecOps Automated Compliance Gates</strong> and <strong>Zero-Trust IAM Micro-segmentation</strong>:</p>
+        <ol>
+          <li><strong>Automated Infrastructure-as-Code (IaC) Scanning:</strong> Integrate static code analysis tools into the CI/CD pipeline to automatically block any deployment containing overly permissive S3 bucket policies or WAF configuration errors before hitting production.</li>
+          <li><strong>Just-in-Time (JIT) Administrative Access:</strong> Eliminate permanent administrative credentials. Require time-bound, multi-party approved JIT credentials that automatically expire after a specific maintenance window.</li>
+          <li><strong>Principle of Least Privilege:</strong> Restrict the WAF instance role so it cannot read raw S3 storage metadata under any circumstances, preventing SSRF exploits from exfiltrating data.</li>
+        </ol>
+        <p><strong>Why This Alternative Leads to Better Outcomes:</strong> This approach removes single points of human failure, enforces continuous accountability, natively protects client data privacy, and preserves organizational integrity without hindering performance.</p>
+      </div>
+    </details>
+  </li>
+
+  <br>
+
+  <!-- STEP 4 -->
+  <li>
+    <strong>Step 4 — Task 4 (IT Project Refinement & Peer Review):</strong>
+    <p style="margin-top: 5px;">Completed a comprehensive peer review for Mirabel's cloud proposal and refined the IT370 capstone proposal into <em>Heritage Vault 2.1</em>.</p>
+    
+    <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #28a745;">
+      <summary style="cursor: pointer;"><strong>📁 View Refinement Proposal (Technical Infrastructure Proposal: Heritage Vault 2.1)</strong></summary>
+      <div style="margin-top: 10px; padding: 5px;">
+        <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
+          <strong>📄 Document Repository Downloads:</strong>
+          <ul style="margin-top: 5px; margin-bottom: 0;">
+            <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.0.pdf" target="_blank"><strong>Download Original File:</strong> Heritage Vault 2.0 (PDF)</a></li>
+            <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.1.md" target="_blank"><strong>View Refined Repository File:</strong> Heritage Vault 2.1 (Markdown)</a></li>
           </ul>
         </div>
-      </details>
-    </li>
+
+        <p><strong>Prepared for:</strong> FamilySearch | <strong>Prepared by:</strong> Promise Beshel | <strong>Date:</strong> July 2026</p>
+        
+        <h4>Executive Summary</h4>
+        <p>FamilySearch is modernizing its core record-preservation infrastructure by expanding the Heritage Vault platform to Version 2.1. This enterprise proposal upgrades the baseline Linux infrastructure (v2.0) into a Zero Trust, AI-governed, highly resilient digital repository. Because FamilySearch preserves billions of global genealogical records and sacred LDS ordinance data, Heritage Vault 2.1 establishes an advanced architectural blueprint balancing sub-millisecond query performance with Zero Trust security, Privacy-by-Design governance, WCAG 2.2 accessibility, and sustainable cloud operations.</p>
+
+        <h4>Key Technical & Ethical Refinements</h4>
+        <ul>
+          <li><strong>Zero Trust Security Architecture:</strong> Replaces static tokens with OAuth 2.0 / OIDC continuous verification, mTLS inter-service communication, Endpoint Detection and Response (EDR) posture checks, and Cilium/eBPF micro-segmentation inside Kubernetes.</li>
+          <li><strong>Ethical AI Governance:</strong> Mandates Human-in-the-Loop (HITL) review for record-matching confidence scores below 98%, Explainable AI (XAI) audit breakdowns, cross-cultural naming bias audits, and instant manual rollback workflows.</li>
+          <li><strong>Privacy-by-Design:</strong> Implements automated 30-day asynchronous right-to-delete worker queues, data minimization at the edge proxy tier, and dynamic obfuscation of living family records.</li>
+          <li><strong>Accessibility (WCAG 2.2 AA):</strong> Ensures full screen-reader ARIA-labeling, high-contrast scaling, and media closed-captioning.</li>
+          <li><strong>Disaster Recovery & Sustainability:</strong> Establishes Write-Once-Read-Many (WORM) immutable ransomware backups, automated AWS Route 53 multi-region failover, RTO &lt; 30 mins, RPO &lt; 5 mins, and carbon-aware batch scheduling.</li>
+        </ul>
+      </div>
+    </details>
 
     <br>
 
-    <!-- STEP 3 -->
-    <li>
-      <strong>Step 3 — Task 3 (Ethical Dilemma Alternative):</strong>
-      <p style="margin-top: 5px;">Developed a DevSecOps & Zero-Trust alternative approach to the 2019 Capital One breach, demonstrating how automated policy enforcement and Least Privilege access uphold organizational ethics.</p>
-      
-      <!-- INLINE CONTENT: ETHICAL ALTERNATIVE -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
-        <summary style="cursor: pointer;"><strong>👉 View Ethical Alternative Analysis (Capital One Breach)</strong></summary>
-        <div style="margin-top: 10px; padding: 5px;">
-          <h4>Essential Ethical Principles</h4>
-          <ul>
-            <li><strong>Stewardship & Data Privacy:</strong> Protecting sensitive user data as a sacred trust, going beyond minimum legal baselines.</li>
-            <li><strong>Accountability & Least Privilege:</strong> Restricting administrative power to ensure no single entity can exploit system configurations unmonitored.</li>
-            <li><strong>Transparency & Moral Integrity:</strong> Placing human safety and ethical governance ahead of operational convenience.</li>
-          </ul>
-
-          <h4>Proposed Alternative Solution</h4>
-          <p>Instead of relying on manual security checks or broad administrative permissions, the organization should have implemented <strong>DevSecOps Automated Compliance Gates</strong> and <strong>Zero-Trust IAM Micro-segmentation</strong>:</p>
-          <ol>
-            <li><strong>Automated Infrastructure-as-Code (IaC) Scanning:</strong> Integrate static code analysis tools into the CI/CD pipeline to automatically block any deployment containing overly permissive S3 bucket policies or WAF configuration errors before hitting production.</li>
-            <li><strong>Just-in-Time (JIT) Administrative Access:</strong> Eliminate permanent administrative credentials. Require time-bound, multi-party approved JIT credentials that automatically expire after a specific maintenance window.</li>
-            <li><strong>Principle of Least Privilege:</strong> Restrict the WAF instance role so it cannot read raw S3 storage metadata under any circumstances, preventing SSRF exploits from exfiltrating data.</li>
-          </ol>
-          <p>
-          </p>
-          <p><strong>Why This Alternative Leads to Better Outcomes:</strong> This approach removes single points of human failure, enforces continuous accountability, natively protects client data privacy, and preserves organizational integrity without hindering performance.</p>
-        </div>
-      </details>
-    </li>
-
-    <br>
-
-    <!-- STEP 4 -->
-    <li>
-      <strong>Step 4 — Task 4 (IT Project Refinement & Peer Review):</strong>
-      <p style="margin-top: 5px;">Completed a comprehensive peer review for Mirabel's cloud proposal and refined the IT370 capstone proposal into <em>Heritage Vault 2.1</em>.</p>
-      
-      <!-- INLINE CONTENT: HERITAGE VAULT 2.1 REFINEMENT -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #28a745;">
-        <summary style="cursor: pointer;"><strong>📁 View Refinement Proposal (Technical Infrastructure Proposal: Heritage Vault 2.1)</strong></summary>
-        <div style="margin-top: 10px; padding: 5px;">
-          
-          <!-- FILE LINKS / BUTTONS -->
-          <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
-            <strong>📄 Document Repository Downloads:</strong>
-            <ul style="margin-top: 5px; margin-bottom: 0;">
-              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.0.pdf" target="_blank"><strong>Download Original File:</strong> Heritage Vault 2.0 (PDF)</a></li>
-              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.1.md" target="_blank"><strong>View Refined Repository File:</strong> Heritage Vault 2.1 (Markdown)</a></li>
-            </ul>
-          </div>
-
-          <p><strong>Prepared for:</strong> FamilySearch | <strong>Prepared by:</strong> Promise Beshel | <strong>Date:</strong> July 2026</p>
-          
-          <h4>Executive Summary</h4>
-          <p>FamilySearch is modernizing its core record-preservation infrastructure by expanding the Heritage Vault platform to Version 2.1. This enterprise proposal upgrades the baseline Linux infrastructure (v2.0) into a Zero Trust, AI-governed, highly resilient digital repository. Because FamilySearch preserves billions of global genealogical records and sacred LDS ordinance data, Heritage Vault 2.1 establishes an advanced architectural blueprint balancing sub-millisecond query performance with Zero Trust security, Privacy-by-Design governance, WCAG 2.2 accessibility, and sustainable cloud operations.</p>
-
-          <h4>Key Technical & Ethical Refinements</h4>
-          <ul>
-            <li><strong>Zero Trust Security Architecture:</strong> Replaces static tokens with OAuth 2.0 / OIDC continuous verification, mTLS inter-service communication, Endpoint Detection and Response (EDR) posture checks, and Cilium/eBPF micro-segmentation inside Kubernetes.</li>
-            <li><strong>Ethical AI Governance:</strong> Mandates Human-in-the-Loop (HITL) review for record-matching confidence scores below 98%, Explainable AI (XAI) audit breakdowns, cross-cultural naming bias audits, and instant manual rollback workflows.</li>
-            <li><strong>Privacy-by-Design:</strong> Implements automated 30-day asynchronous right-to-delete worker queues, data minimization at the edge proxy tier, and dynamic obfuscation of living family records.</li>
-            <li><strong>Accessibility (WCAG 2.2 AA):</strong> Ensures full screen-reader ARIA-labeling, high-contrast scaling, and media closed-captioning.</li>
-            <li><strong>Disaster Recovery & Sustainability:</strong> Establishes Write-Once-Read-Many (WORM) immutable ransomware backups, automated AWS Route 53 multi-region failover, RTO &lt; 30 mins, RPO &lt; 5 mins, and carbon-aware batch scheduling.</li>
+    <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #6c757d;">
+      <summary style="cursor: pointer;"><strong>📄 View Completed Peer Review Evaluation (Imabong Mirabel Joseph Iseh)</strong></summary>
+      <div style="margin-top: 10px; padding: 5px;">
+        <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
+          <strong>📄 Document Repository Download:</strong>
+          <ul style="margin-top: 5px; margin-bottom: 0;">
+            <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/IT497-Capstone%20Project/Week_04/Peer_Review_Evaluation_mirabel.pdf" target="_blank"><strong>Download Peer Review Evaluation:</strong> Mirabel Cloud Proposal (PDF)</a></li>
           </ul>
         </div>
-      </details>
 
-      <br>
+        <p><strong>Reviewer:</strong> Promise Beshel | <strong>Project Reviewed:</strong> Hybrid Cloud Infrastructure Proposal for Auto Rehab Global Services Limited</p>
+        
+        <h4>Summary & Technical Assessment</h4>
+        <p>This project presents a refined Hybrid Cloud Infrastructure Proposal designed to improve security, scalability, reliability, and cost-effectiveness. The author demonstrates a solid understanding of cloud infrastructure principles, implementing MFA, RBAC, encryption at rest/in transit, Microsoft Defender for Cloud, automated backups, and load balancing.</p>
 
-      <!-- INLINE CONTENT: MIRABEL PEER REVIEW -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #6c757d;">
-        <summary style="cursor: pointer;"><strong>📄 View Completed Peer Review Evaluation (Imabong Mirabel Joseph Iseh)</strong></summary>
-        <div style="margin-top: 10px; padding: 5px;">
-          
-          <!-- FILE LINK / BUTTON -->
-          <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
-            <strong>📄 Document Repository Download:</strong>
-            <ul style="margin-top: 5px; margin-bottom: 0;">
-              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Peer_Review_Evaluation_mirabel.pdf" target="_blank"><strong>Download Peer Review Evaluation:</strong> Mirabel Cloud Proposal (PDF)</a></li>
-            </ul>
-          </div>
+        <h4>Ethical Integration & Strengths</h4>
+        <p>The project effectively integrates ethical considerations by emphasizing customer privacy protection through encryption and secure access controls. The discussion highlights the professional responsibility of cloud engineers to recommend best practices over cost-driven decisions.</p>
 
-          <p><strong>Reviewer:</strong> Promise Beshel | <strong>Project Reviewed:</strong> Hybrid Cloud Infrastructure Proposal for Auto Rehab Global Services Limited</p>
-          
-          <h4>Summary & Technical Assessment</h4>
-          <p>This project presents a refined Hybrid Cloud Infrastructure Proposal designed to improve security, scalability, reliability, and cost-effectiveness. The author demonstrates a solid understanding of cloud infrastructure principles, implementing MFA, RBAC, encryption at rest/in transit, Microsoft Defender for Cloud, automated backups, and load balancing.</p>
-
-          <h4>Ethical Integration & Strengths</h4>
-          <p>The project effectively integrates ethical considerations by emphasizing customer privacy protection through encryption and secure access controls. The discussion highlights the professional responsibility of cloud engineers to recommend best practices over cost-driven decisions.</p>
-
-          <h4>Constructive Feedback Provided</h4>
-          <p>Recommended specifying target cloud platforms (e.g., AWS or Azure), providing concrete Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO), and attaching a hybrid cloud network topology diagram to improve technical visualization.</p>
-        </div>
-      </details>
-    </li>
-    
-  </ul>
+        <h4>Constructive Feedback Provided</h4>
+        <p>Recommended specifying target cloud platforms (e.g., AWS or Azure), providing concrete Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO), and attaching a hybrid cloud network topology diagram to improve technical visualization.</p>
+      </div>
+    </details>
+  </li>
+</ul>
 </details>
 
 ---
