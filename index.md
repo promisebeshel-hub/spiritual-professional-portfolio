@@ -58,6 +58,7 @@ Welcome! I am **Promise Beeshel,** an Information Technology student and systems
 
 ## 📁 Academic Repositories & Full Coursework Index
 
-* 📄 [View Professional Resume](professional/resume.md)
-* 📖 [View Spiritual Guiding Principles & References](spiritual/guiding-principles.md)
-* 📂 [Browse All Course Folders & Academic Repositories](professional/coursework.md)
+* 📄 [View Professional Resume](professional/resume.html)
+* 📖 [View Spiritual Guiding Principles & References](spiritual/guiding-principles.html)
+* 💻 [View Technical Projects Showcase](professional/projects.html)
+* 📂 [Browse All Course Folders & Academic Repositories](professional/coursework.html)
