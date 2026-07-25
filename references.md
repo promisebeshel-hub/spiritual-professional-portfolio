@@ -2,7 +2,7 @@
 
 ---
 
-## References & Bibliography (APA Format)
+## References & Bibliography 
 
 * Bednar, D. A. (2018, October). *Gather Together in One All Things in Christ*. Ensign or Liahona. The Church of Jesus Christ of Latter-day Saints.
 * The Church of Jesus Christ of Latter-day Saints. (2013). *The Book of Mormon: Another Testament of Jesus Christ* (3 Nephi 13:19–21). Intellectual Reserve, Inc.
