@@ -4,8 +4,7 @@
 
 # Promise Beshel
 **Database Developer & IT Specialist**  
-*Location:* Open to Remote / Relocation | *GitHub:* [promisebeshel-hub](https://github.com/promisebeshel-hub)
-*LinkedIn:* [Promise Beshel](https://ng.linkedin.com/in/promisebeshel)
+*Location:* Open to Remote / Relocation | *GitHub:* [promisebeshel-hub](https://github.com/promisebeshel-hub) | *LinkedIn:* [Promise Beshel](https://ng.linkedin.com/in/promisebeshel)
 
 ---
 
