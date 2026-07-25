@@ -171,8 +171,16 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 
 ---
 
-## Navigation
+# Spiritual Guiding Principles
 
-* 🏠 [Back to Home](../index.md)
-* 💻 [View Technical Projects Showcase](../professional/projects.md)
-* ⚖️ [View Ethical Analysis](../professional/ethical-analysis.md)
+---
+
+### Navigation
+
+* 🏠 [Back to Home](../index.html)
+* 💻 [View Technical Projects Showcase](../professional/projects.html)
+* 📄 [View Professional Resume](../professional/resume.html)
+* 📂 [View Coursework Index](../professional/coursework.html)
+* ⚖️ [View Ethical Analysis](../professional/ethical-analysis.html)
+
+---
