@@ -8,8 +8,10 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 
 ---
 
-<details id="week-3-principles">
-  <summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 3: Core Guiding Principles Baseline (Click to Expand)</strong></summary>
+<details id="week-3-principles" markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 3: Core Guiding Principles Baseline (Click to Expand)</strong></summary>
+
+<br>
 
 ### Principle 1: Integrity in Stewardship
 * **Why It Matters:** Applying exactness, honesty, and continuous care in managing technical systems and digital resources.
@@ -33,8 +35,10 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 
 ---
 
-<details id="week-4-principles">
-  <summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 4: Expanded Alignment & Complete References (Click to Expand)</strong></summary>
+<details id="week-4-principles" markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>🗓️ Week 4: Expanded Alignment & Complete References (Click to Expand)</strong></summary>
+
+<br>
 
 ### Principle 1: Integrity in Stewardship
 * **Core Principle:** Applying exactness, honesty, and continuous care in managing technical systems and digital resources.
@@ -50,7 +54,7 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 
 ---
 
-### Compiled Scriptural & Prophetic References 
+### Compiled Scriptural & Prophetic References
 
 1. **Bednar, D. A.** (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost)
    * **Context:** The Holy Ghost acts as a constant companion when we align our desires with divine law.
