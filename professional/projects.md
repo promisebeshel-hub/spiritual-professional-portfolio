@@ -241,7 +241,8 @@ Designed, configured, and simulated localized and enterprise network environment
             <li><strong>Just-in-Time (JIT) Administrative Access:</strong> Eliminate permanent administrative credentials. Require time-bound, multi-party approved JIT credentials that automatically expire after a specific maintenance window.</li>
             <li><strong>Principle of Least Privilege:</strong> Restrict the WAF instance role so it cannot read raw S3 storage metadata under any circumstances, preventing SSRF exploits from exfiltrating data.</li>
           </ol>
-
+          <p>
+          </p>
           <p><strong>Why This Alternative Leads to Better Outcomes:</strong> This approach removes single points of human failure, enforces continuous accountability, natively protects client data privacy, and preserves organizational integrity without hindering performance.</p>
         </div>
       </details>
