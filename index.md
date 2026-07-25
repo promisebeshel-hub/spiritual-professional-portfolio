@@ -71,4 +71,4 @@ Through my coursework and hands-on projects, I specialize in database developmen
 
 ### Program Capstone
 * 📁 **[IT497: Capstone Project Pages](https://promisebeshel-hub.github.io/spiritual-professional-portfolio/professional/projects.html#it497-capstone)**
-* 📁 **[IT497: Capstone Project Files](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project)*
+* 📁 *[IT497: Capstone Project Files](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project)*
