@@ -1,39 +1,40 @@
-# Welcome to My Portfolio
+# Welcome to My Spiritual & Professional IT Portfolio
+
+Welcome! I am an Information Technology student and systems practitioner dedicated to uniting technical excellence with disciple-leadership. My work centers on database architecture, Zero Trust cloud security, automated infrastructure provisioning, and ethical IT stewardship.
 
 ---
 
-## About Me
+## 🌟 Featured Flagship Deliverables
 
-Hello! My name is **Promise Beshel**. I am pursuing a Bachelor of Applied Technology in Information Technology at Ensign College. This portfolio documents my journey of becoming both a skilled technology professional and a dedicated disciple of Jesus Christ.
-
-Through my coursework and hands-on projects, I specialize in database development, cloud architecture, system administration, and network engineering. My goal is to build secure, scalable technology solutions while upholding high standards of integrity and service.
-
----
-
-## Portfolio Navigation
-
-* 🏠 [Home](index.md)
-* 🙏 [Spiritual Portfolio](spiritual/guiding-principles.md)
-* 💻 [Professional Projects](professional/projects.md)
-* ⚖️ [Ethical Analysis](professional/ethical-analysis.md)
-* 📄 [Resume](resume.md)
-* 📚 [References](references.md)
+### 1. Heritage Vault 2.1 — Technical Infrastructure Proposal
+* **Focus:** Cloud Architecture, Zero Trust Security, Privacy-by-Design, AI Governance.
+* **Overview:** Transformed a baseline Linux repository into an enterprise-grade Zero Trust architecture for FamilySearch. Features OAuth 2.0/mTLS authentication, Cilium eBPF Kubernetes micro-segmentation, WCAG 2.2 accessibility, and Human-in-the-Loop AI record matching.
+* 👉 [View Full Proposal & Refinement Showcase](professional/projects.md#it497-capstone)
 
 ---
 
-## Technical Skills Overview
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Databases** | Microsoft SQL Server, SQLite, T-SQL, Database Normalization |
-| **Programming & Scripting** | Python, HTML, JSON, PowerShell |
-| **Networking & Security** | Cisco Packet Tracer, Subnetting, Nmap, Wireshark, Metasploit |
-| **Cloud & Virtualization** | Azure Storage Management, Virtual Machines, Proxmox |
-| **Platforms & Version Control** | GitHub, Git, Windows Server, Linux |
+### 2. Enterprise Ethical Analysis: Capital One Breach Alternative
+* **Focus:** Cloud Security Governance, DevSecOps, IAM Role Minimization.
+* **Overview:** Developed a well-reasoned, ethically sound alternative architecture in response to the 2019 Capital One data breach. Proposes automated IaC CI/CD compliance gates, Just-In-Time administrative privileges, and Zero-Trust IAM segmentation to eliminate single points of failure.
+* 👉 [Read Comprehensive Ethical Analysis](professional/ethical-analysis.md)
 
 ---
 
-## Featured Video Demonstrations
+### 3. Relational Database Architecture & T-SQL Systems (IT143)
+* **Focus:** MS SQL Server 2022, Schema Normalization, Advanced Querying.
+* **Overview:** Designed and implemented multi-table relational database structures, complex joins, views, and stored procedures built on exactness and operational integrity.
+* 👉 [Watch Lab Demonstrations & Walkthroughs](professional/projects.md#1-relational-database-development--advanced-querying-it143)
+
+---
+
+### 4. Automated Database Provisioning Engine (CS104)
+* **Focus:** Python, SQLite, JSON Ingestion Pipelines.
+* **Overview:** Programmed an automated database pipeline (`createDB.py`, `insert_recs.py`, `show_records.py`) that ingests structured JSON records and executes batch database creation and validation.
+* 👉 [Explore Codebase & Pipeline Demos](professional/projects.md#2-automated-database-provisioning-engine-cs104)
+
+---
+
+## 🎥 Featured Video Demonstrations
 
 <details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
   <summary style="cursor: pointer;">🎥 <strong>IT143 Database Walkthrough</strong> (Click to Play)</summary>
@@ -55,35 +56,8 @@ Through my coursework and hands-on projects, I specialize in database developmen
 
 ---
 
-## Contact & Connect
+## 📁 Academic Repositories & Full Coursework Index
 
-* **GitHub Repository:** [promisebeshel-hub/spiritual-professional-portfolio](https://github.com/promisebeshel-hub/spiritual-professional-portfolio)
-* **LinkedIn:** [Promise Beshel](https://ng.linkedin.com/in/promisebeshel)
-
-  
-## Coursework Folders & Source Repositories
-
-### Business & Computer Science
-* 📁 **[BAP115: Microsoft Excel](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/BAP115)**
-* 📁 **[CS104-002: Python Scripting / Final Project](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/CS104-002_FinalProject)**
-
-### Core IT & Databases
-* 📁 **[IT125: Introduction to Information Technology](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT125)**
-* 📁 **[IT143: DB Design and Analysis (SQL Server)](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT143-DB%20Design%20and%20Analysis)**
-
-### Networking & Systems Administration
-* 📁 **[IT160: Cloud Computing Essentials](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT160-Cloud%20Computing%20Essentials)**
-* 📁 **[IT210: Linux Fundamentals](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT210-Linux%20Fundamentals)**
-* 📁 **[IT255: Networking Fundamentals](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT255-Networking%20Fundamentals)**
-* 📁 **[IT350: Network Configuration and Design](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT350-Network%20Configuration%20and%20Design)**
-* 📁 **[IT370: Advanced Linux](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT370--Advanced%20Linux)**
-
-### Security, Scripting & Cloud Technologies
-* 📁 **[IT312: Cyber Security](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT312--Cyber%20Security)**
-* 📁 **[IT316: Scripting for Technology](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT316-Scripting%20for%20Technology)**
-* 📁 **[IT330: Azure Technologies](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT330-Azure%20Technologies)**
-* 📁 **[IT335: AWS Cloud Practitioner](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT335-AWS%20Cloud%20Practitioner)**
-
-### Program Capstone
-* 📁 **[IT497: Capstone Project Files](https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project)**
-* 📁 *[IT497: Capstone Project Pages](https://promisebeshel-hub.github.io/spiritual-professional-portfolio/professional/projects.html#it497-capstone)*
+* 📄 [View Professional Resume](professional/resume.md)
+* 📖 [View Spiritual Guiding Principles & References](spiritual/guiding-principles.md)
+* 📂 [Browse All Course Folders & Academic Repositories](professional/coursework.md)
