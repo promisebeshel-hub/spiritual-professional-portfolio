@@ -254,10 +254,20 @@ Designed, configured, and simulated localized and enterprise network environment
       <strong>Step 4 — Task 4 (IT Project Refinement & Peer Review):</strong>
       <p style="margin-top: 5px;">Completed a comprehensive peer review for Mirabel's cloud proposal and refined the IT370 capstone proposal into <em>Heritage Vault 2.1</em>.</p>
       
-      <!-- INLINE CONTENT: HERITAGE VAULT 2.1 -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #28a745;">
+      <!-- INLINE CONTENT: HERITAGE VAULT 2.1 REFINEMENT -->
+      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #28a745;">
         <summary style="cursor: pointer;"><strong>📁 View Refinement Proposal (Technical Infrastructure Proposal: Heritage Vault 2.1)</strong></summary>
         <div style="margin-top: 10px; padding: 5px;">
+          
+          <!-- FILE LINKS / BUTTONS -->
+          <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
+            <strong>📄 Document Repository Downloads:</strong>
+            <ul style="margin-top: 5px; margin-bottom: 0;">
+              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.0.pdf" target="_blank"><strong>Download Original File:</strong> Heritage Vault 2.0 (PDF)</a></li>
+              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Technical_Infrastructure_Proposal_Heritage_Vault_2.1.md" target="_blank"><strong>View Refined Repository File:</strong> Heritage Vault 2.1 (Markdown)</a></li>
+            </ul>
+          </div>
+
           <p><strong>Prepared for:</strong> FamilySearch | <strong>Prepared by:</strong> Promise Beshel | <strong>Date:</strong> July 2026</p>
           
           <h4>Executive Summary</h4>
@@ -277,9 +287,18 @@ Designed, configured, and simulated localized and enterprise network environment
       <br>
 
       <!-- INLINE CONTENT: MIRABEL PEER REVIEW -->
-      <details style="margin-top: 8px; margin-left: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #6c757d;">
+      <details style="margin-top: 8px; margin-left: 15px; padding: 12px; background-color: #f9f9f9; border-left: 3px solid #6c757d;">
         <summary style="cursor: pointer;"><strong>📄 View Completed Peer Review Evaluation (Imabong Mirabel Joseph Iseh)</strong></summary>
         <div style="margin-top: 10px; padding: 5px;">
+          
+          <!-- FILE LINK / BUTTON -->
+          <div style="margin-bottom: 15px; padding: 10px; background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 5px;">
+            <strong>📄 Document Repository Download:</strong>
+            <ul style="margin-top: 5px; margin-bottom: 0;">
+              <li>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project/Week_04/Peer_Review_Evaluation_mirabel.pdf" target="_blank"><strong>Download Peer Review Evaluation:</strong> Mirabel Cloud Proposal (PDF)</a></li>
+            </ul>
+          </div>
+
           <p><strong>Reviewer:</strong> Promise Beshel | <strong>Project Reviewed:</strong> Hybrid Cloud Infrastructure Proposal for Auto Rehab Global Services Limited</p>
           
           <h4>Summary & Technical Assessment</h4>
@@ -293,7 +312,7 @@ Designed, configured, and simulated localized and enterprise network environment
         </div>
       </details>
     </li>
-
+    
   </ul>
 </details>
 
