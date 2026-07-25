@@ -81,6 +81,7 @@ Detail-oriented and analytical Information Technology professional pursuing a Ba
 
 ## Navigation
 
-* 🏠 [Back to Home](index.md)
-* 💻 [View Technical Projects](professional/projects.md)
-* 📚 [Proceed to References](references.md)
+* 🏠 [Back to Home](../index.html)
+* 💻 [View Technical Projects](projects.html)
+* 📂 [View Coursework Index](coursework.html)
+* 📖 [Spiritual Guiding Principles](../spiritual/guiding-principles.html)
