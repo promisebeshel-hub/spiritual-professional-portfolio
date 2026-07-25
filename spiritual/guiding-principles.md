@@ -54,57 +54,120 @@ As an IT professional and a disciple of Jesus Christ, my technical work is guide
 
 ---
 
-### Compiled Scriptural & Prophetic References
+### Compiled Scriptural & Prophetic References 
 
-1. **Bednar, D. A.** (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost)
+1. **Bednar, D. A.** (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** The Holy Ghost acts as a constant companion when we align our desires with divine law.
    * **Application:** Seeking spiritual direction when troubleshooting complex system anomalies and making high-stakes technical decisions.
+   
+   <details markdown="1">
+     <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+     <br>
+     <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+   </details>
+
+<br>
 
 2. **Doctrine & Covenants.** (1981). *Doctrine and Covenants 58:26–28*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** Endowed with agency to act proactively rather than waiting to be commanded in all things.
    * **Application:** Demonstrating initiative in career development, automating security checks, and driving IT solutions proactively.
 
-3. **Gong, G. E.** (2021, October). *Trustworthy trust*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2021/10/43gong)
-   * **Context:** Building trust requires honesty, reliability, and consistent ethical behavior over time.
-   * **Application:** Establishing trust in technical environments through transparent systems, rigorous audit logging, and Zero Trust access controls.
+<br>
 
-4. **Nelson, R. M.** (2021, October). *Make time for the Lord*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson)
+3. **Gong, G. E.** (2021, October). *Trust Again*. *Liahona*. The Church of Jesus Christ of Latter-day Saints.
+   * **Context:** Building divine and interpersonal trust requires honesty, reliability, and consistent ethical behavior over time.
+   * **Application:** Establishing trust in technical environments through transparent systems, rigorous audit logging, and Zero Trust access controls.
+   
+   <details markdown="1">
+     <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+     <br>
+     <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2021/10/51gong?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+   </details>
+
+<br>
+
+4. **Nelson, R. M.** (2021, October). *Make time for the Lord*. *Liahona*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** Prioritizing daily spiritual habits protects individuals from spiritual drift and operational burnout.
    * **Application:** Scheduling dedicated daily time for prayer, scripture study, and personal retrospectives alongside deployment schedules.
+   
+   <details markdown="1">
+     <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+     <br>
+     <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+   </details>
 
-5. **Oaks, D. H.** (2003, May). *Focus and priority*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2003/04/focus-and-priority)
-   * **Context:** Evaluating activities based on whether they are "good, better, or best" to avoid distraction from core divine purposes.
+<br>
+
+5. **Oaks, D. H.** (2001, April). *Focus and Priorities*. *Ensign*. The Church of Jesus Christ of Latter-day Saints.
+   * **Context:** Evaluating activities based on eternal values to avoid distraction from core divine purposes amid an excess of information.
    * **Application:** Maintaining balanced focus across systems engineering work, capstone deliverables, and spiritual growth.
+   
+   <details markdown="1">
+     <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+     <br>
+     <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2001/04/focus-and-priorities?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+   </details>
 
-6. **Renlund, D. R.** (2019, April). *Abound with blessings*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2019/04/14renlund)
+<br>
+
+6. **Renlund, D. R.** (2019, April). *Abound with Blessings*. *Ensign*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** Divine blessings are accessed by adhering to fundamental laws and principles.
    * **Application:** Applying exactness in system configuration, code syntax, and security policies as a technical reflection of lawfulness.
+   
+   <details markdown="1">
+     <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+     <br>
+     <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2019/04/41renlund?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+   </details>
+
+<br>
 
 7. **The Book of Mormon.** (1981a). *Alma 37:37*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** Alma counsels Helaman to counsel with the Lord in all endeavors for divine guidance.
    * **Application:** Involving the Lord in professional planning, career decision-making, and architectural design processes.
 
+<br>
+
 8. **The Book of Mormon.** (1981b). *2 Nephi 28:30*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** The Lord teaches His children line upon line, precept upon precept, giving knowledge incrementally.
    * **Application:** Embracing iterative development methodologies (Agile/DevOps) in engineering projects and personal skill acquisition.
+
+<br>
 
 9. **The Book of Mormon.** (1981c). *Ether 12:27*. The Church of Jesus Christ of Latter-day Saints.
    * **Context:** Weaknesses can become strengths through humility, faith, and grace.
    * **Application:** Learning from technical failures, code bugs, and project setbacks to refine engineering skills and resilience.
 
+<br>
+
 10. **The Book of Mormon.** (1981d). *Mosiah 2:17*. The Church of Jesus Christ of Latter-day Saints.
     * **Context:** King Benjamin teaches that serving fellow human beings is equivalent to serving God.
     * **Application:** Leveraging systems engineering capabilities and mentorship to build reliable IT systems that serve global communities.
 
-11. **The Church of Jesus Christ of Latter-day Saints.** (2020). *Section 38: Ethics and integrity*. In *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*. [Link](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines)
+<br>
+
+11. **The Church of Jesus Christ of Latter-day Saints.** (2020). *Section 38: Ethics and integrity*. In *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*.
     * **Context:** Official guidelines governing institutional ethics, data privacy, intellectual property, and resource management.
     * **Application:** Structuring software governance, Privacy-by-Design pipelines, and compliance rules in platforms like Heritage Vault 2.1.
+    
+    <details markdown="1">
+      <summary style="cursor: pointer;">📖 <strong>Read Section inside Webpage</strong></summary>
+      <br>
+      <iframe src="https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+    </details>
 
-12. **Uchtdorf, D. F.** (2008, October). *Lift where you stand*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. [Link](https://www.churchofjesuschrist.org/study/general-conference/2008/10/lift-where-you-stand)
+<br>
+
+12. **Uchtdorf, D. F.** (2008, October). *Lift where you stand*. *Ensign*. The Church of Jesus Christ of Latter-day Saints.
     * **Context:** Disciple-leaders are called to serve faithfully in their current responsibilities regardless of rank or position.
     * **Application:** Approaching entry-level IT roles, student coursework, and complex telecom optimizations with equal dedication and excellence.
-
-</details>
+    
+    <details markdown="1">
+      <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+      <br>
+      <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2008/10/lift-where-you-stand?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+    </details>
+    
 
 ---
 
