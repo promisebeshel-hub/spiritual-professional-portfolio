@@ -137,7 +137,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ---
 
-<h2>IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
+<h2 id="it497-capstone">IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
 
 <details id="week-1">
   <summary><strong>🗓️ Week 1: Foundation & Alignment (Click to Expand)</strong></summary>
