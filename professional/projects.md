@@ -99,92 +99,6 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ---
 
-<h2>Complete Coursework & Repository Directory</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Course Code & Title</th>
-      <th>Primary Technologies</th>
-      <th>Repository Folder Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>BAP115</strong> — Microsoft Excel</td>
-      <td>Data Analysis & Spreadsheets</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/BAP115" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>CS104-002</strong> — Python Scripting</td>
-      <td>Python, SQLite, JSON</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/CS104-002_FinalProject" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT125</strong> — Intro to Information Technology</td>
-      <td>Systems & IT Concepts</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT125" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT143</strong> — DB Design and Analysis</td>
-      <td>MS SQL Server, T-SQL</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT143-DB%20Design%20and%20Analysis" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT160</strong> — Cloud Computing Essentials</td>
-      <td>Cloud Storage, Azure Basics</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT160-Cloud%20Computing%20Essentials" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT210</strong> — Linux Fundamentals</td>
-      <td>Linux Administration, CLI</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT210-Linux%20Fundamentals" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT255</strong> — Networking Fundamentals</td>
-      <td>Cisco Packet Tracer, Subnetting</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT255-Networking%20Fundamentals" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT312</strong> — Cyber Security</td>
-      <td>Nmap, Wireshark, Security Audit</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT312--Cyber%20Security" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT316</strong> — Scripting for Technology</td>
-      <td>Python Automation, Scripting</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT316-Scripting%20for%20Technology" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT330</strong> — Azure Technologies</td>
-      <td>Identity Roles, Azure Cloud</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT330-Azure%20Technologies" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT335</strong> — AWS Cloud Practitioner</td>
-      <td>Cloud Security & Compliance</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT335-AWS%20Cloud%20Practitioner" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT350</strong> — Network Config and Design</td>
-      <td>Advanced Network Routing</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT350-Network%20Configuration%20and%20Design" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT370</strong> — Advanced Linux</td>
-      <td>Linux Systems & Server Admin</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT370--Advanced%20Linux" target="_blank">Browse Files</a></td>
-    </tr>
-    <tr>
-      <td><strong>IT497</strong> — Capstone Project</td>
-      <td>Portfolio Integration & Reflections</td>
-      <td><a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/tree/main/IT497-Capstone%20Project" target="_blank">Browse Files</a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 <h2 id="it497-capstone">IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
 
 <!-- WEEK 1 -->
@@ -394,10 +308,37 @@ Designed, configured, and simulated localized and enterprise network environment
 </ul>
 </details>
 
+<hr>
+
+<!-- WEEK 5 DROPDOWN -->
+<details id="week-5" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 5: Integration, Reflection, and Design Enhancement (Click to Expand)</strong></summary>
+
+<br>
+
+<ul style="line-height: 1.8;">
+  <li>
+    <strong>Task 1 — Spiritual Enhancement (Christlike Attributes & Realignment):</strong>
+    <p style="margin-top: 5px;">Documented the integration of patience, integrity, and submissiveness in technical work. Established a warning-sign matrix addressing spiritual inertia, perfectionism, and cynicism with concrete realignment strategies (Nelson, 2021; D&C 58:26–28).</p>
+  </li>
+
+  <li>
+    <strong>Task 2 — Usability Testing, Portfolio Design & Ethical Reflection:</strong>
+    <p style="margin-top: 5px;">Executed comprehensive usability testing across 3 personas. Re-architected homepage links, fixed 404 paths, added mobile CSS responsiveness, and authored a deep ethical reflection on the 2019 Capital One SSRF/IAM breach.</p>
+    <p>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/IT497-Capstone%20Project/Week_05/integration_reflection_and_design.md" target="_blank"><strong>View Full Week 5 Report (Markdown Document)</strong></a></p>
+  </li>
+
+  <li>
+    <strong>Task 3 — Spiritual–Professional Integration (Temple Reflection & Mental Map):</strong>
+    <p style="margin-top: 5px;">Synthesized Elder Bednar's "Gather Together in One" doctrine through a temple reflective exercise. Formulated the <em>Disciple-Leader Systems Blueprint</em> mental map connecting Zero Trust security with covenant stewardship.</p>
+  </li>
+</ul>
+</details>
+
 ---
 
 ## Navigation
 
-* 🏠 [Back to Home](../index.md)
-* ⚖️ [Proceed to Ethical Analysis](ethical-analysis.md)
-* 🙏 [Spiritual Portfolio](../spiritual/guiding-principles.md)
+* 🏠 [Back to Home](../index.html)
+* ⚖️ [Proceed to Ethical Analysis](ethical-analysis.html)
+* 🙏 [Spiritual Portfolio](../spiritual/guiding-principles.html)
