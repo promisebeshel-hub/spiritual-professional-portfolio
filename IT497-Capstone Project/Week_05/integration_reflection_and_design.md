@@ -75,44 +75,19 @@ During quiet reflection and temple attendance, I pondered Elder David A. Bednar'
 
 ### 2. Integrative Mental Map: The Disciple-Leader Systems Blueprint
 
-+---------------------------------------------------------------+
-|                 CHRIST-CENTERED FOUNDATION                    |
-|         Covenants | Faith | Disciple-Leadership               |
-+------------------------------+--------------------------------+
-                               |
-                               v
-+------------------------------+--------------------------------+
-|                                                               |
-v                                                               v
-+-------------------------------+       +-------------------------------+
-|      SPIRITUAL PRINCIPLES     |       |    TECHNICAL COMPETENCIES     |
-| • Integrity in Stewardship    |       | • Zero Trust & mTLS (IT370)   |
-| • Continuous Revelation       | <===> | • Automated Pipelines (CS104) |
-| • Servant Leadership          |       | • Database Exactness (IT143)  |
-| • Personal Agency (D&C 58)    |       | • DevSecOps Governance (IT497)|
-+-------------------------------+       +-------------------------------+
-|                                                               |
-+------------------------------+--------------------------------+
-                               |
-                               v
-+---------------------------------------------------------------+
-|                 ETHICAL SYSTEM STEWARDSHIP                    |
-|             Heritage Vault 2.1 | Data Privacy                 |
-|               Empowered Global Communities                    |
-+---------------------------------------------------------------+
-                 
+![Disciple-Leader Systems Blueprint Mental Map](disciple_leader_mental_map.png)
 
 ---
 
 ## References (APA 7th Edition)
 
-**Bednar, D. A. (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost
+#Bednar, D. A. (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost
 
-**Bednar, D. A. (2018, November). *Gather together in one all things in Christ*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2018/10/gather-together-in-one-all-things-in-christ
+*Bednar, D. A. (2018, November). *Gather together in one all things in Christ*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2018/10/gather-together-in-one-all-things-in-christ
 
-**Doctrine & Covenants. (1981). *Doctrine and Covenants 58:26–28*. The Church of Jesus Christ of Latter-day Saints.
+# Doctrine & Covenants. (1981). *Doctrine and Covenants 58:26–28*. The Church of Jesus Christ of Latter-day Saints.
 
-**Gong, G. E. (2021, October). *Trust again*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2021/10/51gong
+* Gong, G. E. (2021, October). *Trust again*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2021/10/51gong
 
 **Nelson, R. M. (2021, October). *Make time for the Lord*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson
 
