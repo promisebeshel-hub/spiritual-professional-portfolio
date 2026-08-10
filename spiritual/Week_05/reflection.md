@@ -24,35 +24,12 @@
 During quiet reflection and temple attendance, I pondered Elder David A. Bednar's message on "gathering together in one all things in Christ" (Bednar, 2018). True integration occurs when technical skills are not treated as isolated secular tools, but as physical instruments used to fulfill spiritual covenants and empower communities.
 
 
----
+<br>
 
-+---------------------------------------------------------------+
-|                 CHRIST-CENTERED FOUNDATION                    |
-|         Covenants | Faith | Disciple-Leadership               |
-+------------------------------+--------------------------------+
-                               |
-                               v
-+------------------------------+--------------------------------+
-|                                                               |
-v                                                               v
-+-------------------------------+       +-------------------------------+
-|      SPIRITUAL PRINCIPLES     |       |    TECHNICAL COMPETENCIES     |
-| • Integrity in Stewardship    |       | • Zero Trust & mTLS (IT370)   |
-| • Continuous Revelation       | <===> | • Automated Pipelines (CS104) |
-| • Servant Leadership          |       | • Database Exactness (IT143)  |
-| • Personal Agency (D&C 58)    |       | • DevSecOps Governance (IT497)|
-+-------------------------------+       +-------------------------------+
-|                                                               |
-+------------------------------+--------------------------------+
-                               |
-                               v
-+---------------------------------------------------------------+
-|                 ETHICAL SYSTEM STEWARDSHIP                    |
-|             Heritage Vault 2.1 | Data Privacy                 |
-|               Empowered Global Communities                    |
-+---------------------------------------------------------------+
+![Disciple-Leader Systems Blueprint Mental Map](disciple_leader_mental_map.png)
 
----
+<br>
+
 
 ## Navigation
 
