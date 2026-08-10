@@ -325,7 +325,7 @@ Designed, configured, and simulated localized and enterprise network environment
   <li>
     <strong>Task 2 — Usability Testing, Portfolio Design & Ethical Reflection:</strong>
     <p style="margin-top: 5px;">Executed comprehensive usability testing across 3 personas. Re-architected homepage links, fixed 404 paths, added mobile CSS responsiveness, and authored a deep ethical reflection on the 2019 Capital One SSRF/IAM breach.</p>
-    <p>🔗 <a href="https://github.com/promisebeshel-hub/spiritual-professional-portfolio/blob/main/IT497-Capstone%20Project/Week_05/integration_reflection_and_design.md" target="_blank"><strong>View Full Week 5 Report (Markdown Document)</strong></a></p>
+    <p>🔗 <a href="../IT497-Capstone%20Project/Week_05/integration_reflection_and_design.md" target="_blank"><strong>View Full Week 5 Report (Markdown Document)</strong></a></p>
   </li>
 
   <li>
