@@ -75,33 +75,32 @@ During quiet reflection and temple attendance, I pondered Elder David A. Bednar'
 
 ### 2. Integrative Mental Map: The Disciple-Leader Systems Blueprint
 
-                 +---------------------------------------+
-                 |        CHRIST-CENTERED FOUNDATION     |
-                 |    Covenants | Faith | Disciple-      |
-                 |            Leadership                 |
-                 +-------------------+-------------------+
-                                     |
-                                     v
-            +------------------------+---------------------------------+
-            |                                                          |
-            v                                                          v
-+-------------------------------+                       +-------------------------------+
-|     SPIRITUAL PRINCIPLES      |                       |    TECHNICAL COMPETENCIES     |
-| • Integrity in Stewardship    |                       | • Zero Trust & mTLS (IT370)   |
-| • Continuous Revelation       | <===================> | • Automated Pipelines (CS104) |
-| • Servant Leadership          |  (Intertwined Strands)| • Database Exactness (IT143)  |
-| • Personal Agency (D&C 58)    |                       | • DevSecOps Governance (IT497)|
-+-------------------------------+                       +-------------------------------+
-            |                                                           |
-            +-------------------------+---------------------------------+
-                                      |
-                                      v
-                +---------------------------------------+
-                |     ETHICAL SYSTEM STEWARDSHIP        |
-                |  Heritage Vault 2.1 | Data Privacy    |
-                |   Empowered Global Communities        |
-                +---------------------------------------+
-
++---------------------------------------------------------------+
+|                 CHRIST-CENTERED FOUNDATION                    |
+|         Covenants | Faith | Disciple-Leadership               |
++------------------------------+--------------------------------+
+                               |
+                               v
++------------------------------+--------------------------------+
+|                                                               |
+v                                                               v
++-------------------------------+       +-------------------------------+
+|      SPIRITUAL PRINCIPLES     |       |    TECHNICAL COMPETENCIES     |
+| • Integrity in Stewardship    |       | • Zero Trust & mTLS (IT370)   |
+| • Continuous Revelation       | <===> | • Automated Pipelines (CS104) |
+| • Servant Leadership          |       | • Database Exactness (IT143)  |
+| • Personal Agency (D&C 58)    |       | • DevSecOps Governance (IT497)|
++-------------------------------+       +-------------------------------+
+|                                                               |
++------------------------------+--------------------------------+
+                               |
+                               v
++---------------------------------------------------------------+
+|                 ETHICAL SYSTEM STEWARDSHIP                    |
+|             Heritage Vault 2.1 | Data Privacy                 |
+|               Empowered Global Communities                    |
++---------------------------------------------------------------+
+                 
 
 ---
 
