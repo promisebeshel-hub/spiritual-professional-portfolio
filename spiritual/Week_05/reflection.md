@@ -26,7 +26,7 @@ During quiet reflection and temple attendance, I pondered Elder David A. Bednar'
 
 <br>
 
-![Disciple-Leader Systems Blueprint Mental Map](disciple_leader_mental_map.png)
+![Disciple-Leader Systems Blueprint Mental Map](disciple_leader_mental_map2.png)
 
 <br>
 
