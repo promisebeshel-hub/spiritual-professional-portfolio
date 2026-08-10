@@ -7,7 +7,11 @@
 
 ---
 
-## 1. Action Plan for Ongoing Spiritual & Professional Development
+<!-- SECTION 1 DROPDOWN -->
+<details markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>🎯 1. Action Plan for Ongoing Spiritual & Professional Development (Click to Expand)</strong></summary>
+
+<br>
 
 ### Goal & Execution Matrix
 
@@ -17,9 +21,15 @@
 | **Professional Stewardship** | Transition into a Cloud Security / Systems Engineer role | Lead enterprise Zero Trust infrastructure deployments | Design open-source, Privacy-by-Design tools for public interest platforms | **Integrity in Stewardship (Alma 37:37):** Exercising exactness and moral responsibility over critical user data. |
 | **Spiritual & Disciple-Leadership** | Maintain daily quiet hours for scripture study before terminal sessions | Serve as a mentor for entry-level IT students in local communities | Establish local community tech clinics to teach digital literacy & safety | **Servant Leadership (Mosiah 2:17):** Utilizing technical capabilities as a vehicle to serve God and uplift others. |
 
----
+</details>
 
-## 2. Reflective Essay: Goal Evolution, Portfolio Alignment & Growth
+<hr>
+
+<!-- SECTION 2 DROPDOWN -->
+<details markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>📝 2. Reflective Essay: Goal Evolution, Portfolio Alignment & Growth (Click to Expand)</strong></summary>
+
+<br>
 
 ### The Evolution of My Technical and Spiritual Vision
 When I began IT 497, my view of career preparation was primarily mechanical: complete assignments, compile code snippets, build a clean resume, and demonstrate technical competence in cloud computing and database administration. However, through weekly synthesis, scriptural integration, and temple retrospectives, my goal evolved from simply *becoming an IT specialist* to *becoming an ethical digital steward*.
@@ -32,9 +42,15 @@ The live portfolio (`promisebeshel-hub.github.io/spiritual-professional-portfoli
 * **Spiritual Progression Portfolio:** Integrates core guiding principles, scriptural/prophetic reference tables, personal warning signs, and the *Disciple-Leader Systems Blueprint* mental map.
 * **Ethical Governance:** Examines critical infrastructure failures (e.g., 2019 Capital One SSRF breach) and proposes automated DevSecOps compliance gates to protect user privacy.
 
----
+</details>
 
-## 3. Comprehensive Portfolio Peer Reviews Report
+<hr>
+
+<!-- SECTION 3 DROPDOWN -->
+<details markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>🤝 3. Comprehensive Portfolio Peer Reviews Report (Click to Expand)</strong></summary>
+
+<br>
 
 ### Part A: Peer Reviews Provided to Classmates
 
@@ -61,7 +77,6 @@ The live portfolio (`promisebeshel-hub.github.io/spiritual-professional-portfoli
 
 ### Part B: Peer Reviews Received & Implementation Report
 
-
 ![Peer Feedback and Implementation Matrix](peer_feedback_matrix.png)
 
 <br>
@@ -74,9 +89,15 @@ The live portfolio (`promisebeshel-hub.github.io/spiritual-professional-portfoli
 > 2. **Ethical AI & Privacy Governance:** Implementing Human-in-the-Loop (HITL) verification and automated 30-day right-to-delete worker queues.
 > 3. **High Availability & Disaster Recovery:** Designing Route 53 multi-region failover with RTO < 30 mins and RPO < 5 mins.
 
----
+</details>
 
-## 4. Final Presentation Slides Structure (PowerPoint Outline)
+<hr>
+
+<!-- SECTION 4 DROPDOWN -->
+<details markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>📊 4. Final Presentation Slides Structure (Click to Expand)</strong></summary>
+
+<br>
 
 Below is the structured transcript for the 6-slide final presentation submitted to the instructor:
 
@@ -100,26 +121,77 @@ Below is the structured transcript for the 6-slide final presentation submitted 
   * Short-, Mid-, and Long-term goals (AWS/Security+ $\rightarrow$ CISSP $\rightarrow$ Multi-Cloud IaC).
   * Commitment to ongoing growth as a trusted disciple-leader in IT.
 
----
+</details>
 
-## 5. Course Evaluation Confirmation
+<hr>
+
+<!-- SECTION 5 DROPDOWN -->
+<details markdown="1">
+<summary style="cursor: pointer; font-size: 1.2em;"><strong>✅ 5. Course Evaluation Confirmation (Click to Expand)</strong></summary>
+
+<br>
 
 * [x] **Course Evaluation Completed:** I confirm that I have fully completed the official IT 497 course evaluation.
 
+</details>
+
+<hr>
+
+## 📚 References
+
+* **Bednar, D. A.** (2018, November). *Gather together in one all things in Christ*. *Ensign*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2018/10/gather-together-in-one-all-things-in-christ?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **Doctrine & Covenants.** (1981). *Doctrine and Covenants 58:26–28*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Scripture inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **Gong, G. E.** (2021, October). *Trust again*. *Liahona*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2021/10/51gong?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **Nelson, R. M.** (2021, October). *Make time for the Lord*. *Liahona*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Article inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **The Book of Mormon.** (1981a). *Alma 37:37*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Scripture inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **The Book of Mormon.** (1981b). *2 Nephi 28:30*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Scripture inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
+* **The Book of Mormon.** (1981c). *Mosiah 2:17*. The Church of Jesus Christ of Latter-day Saints.
+  <details markdown="1" style="margin-top: 5px; margin-bottom: 10px;">
+    <summary style="cursor: pointer;">📖 <strong>Read Scripture inside Webpage</strong></summary>
+    <br>
+    <iframe src="https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng" width="100%" height="450" frameborder="0" style="border-radius: 5px; border: 1px solid #ccc;"></iframe>
+  </details>
+
 ---
 
-## References (APA 7th Edition)
+## 🏠 Navigation
 
-* Bednar, D. A. (2018, November). *Gather together in one all things in Christ*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2018/10/gather-together-in-one-all-things-in-christ
-
-* Doctrine & Covenants. (1981). *Doctrine and Covenants 58:26–28*. The Church of Jesus Christ of Latter-day Saints.
-
-* Gong, G. E. (2021, October). *Trust again*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2021/10/51gong
-
-* Nelson, R. M. (2021, October). *Make time for the Lord*. *Liahona*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson
-
-* The Book of Mormon. (1981a). *Alma 37:37*. The Church of Jesus Christ of Latter-day Saints.
-
-* The Book of Mormon. (1981b). *2 Nephi 28:30*. The Church of Jesus Christ of Latter-day Saints.
-
-* The Book of Mormon. (1981c). *Mosiah 2:17*. The Church of Jesus Christ of Latter-day Saints.
+* 🏠 [Back to Home](../../index.html)
+* 📖 [Spiritual Guiding Principles](../../spiritual/guiding-principles.html)
+* 💻 [View Technical Projects Showcase](../../professional/projects.html)
