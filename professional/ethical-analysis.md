@@ -43,10 +43,3 @@ This experience reinforced that technical competence must always be paired with 
 * 🏠 [Back to Home](../index.html)
 * 💻 [Back to Projects](projects.html)
 * 📄 [Proceed to Resume](resume.html)
-
-
-## Navigation
-
-* 🏠 [Back to Home](../index.md)
-* 💻 [Back to Projects](projects.md)
-* 📄 [Proceed to Resume](../resume.md)
