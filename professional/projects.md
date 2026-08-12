@@ -337,6 +337,34 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ---
 
+<hr>
+
+<!-- WEEK 6 DROPDOWN -->
+<details id="week-6" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 6: Finalization, Peer Reviews, and Presentations Report (Click to Expand)</strong></summary>
+
+<br>
+
+<ul style="line-height: 1.8;">
+  <li>
+    <strong>Task 1 — Ongoing Action Plan & Reflective Essay:</strong>
+    <p style="margin-top: 5px;">Formulated a 36-month spiritual/professional action plan (AWS/Security+ -> CISSP -> Multi-Cloud IaC). Authored a reflective essay detailing how Elder Bednar's doctrine ("Gather Together in One") transformed technical execution into covenant stewardship.</p>
+  </li>
+
+  <li>
+    <strong>Task 2 — Comprehensive Peer Reviews Report:</strong>
+    <p style="margin-top: 5px;">Documented detailed peer reviews provided to Eric Intsiful and Mitchell Reid. Synthesized feedback received from Chinenye Ugwu and McSylvester Mbah, implementing project impact metrics, individual role descriptions, and selecting <em>Heritage Vault 2.1</em> as the primary career-readiness showcase.</p>
+    <p>🔗 <a href="../IT497-Capstone%20Project/Week_06/finalization_and_presentations.md" target="_blank"><strong>View Full Week 6 Capstone Report (Markdown Document)</strong></a></p>
+  </li>
+
+  <li>
+    <strong>Task 3 — Final Presentation & Course Evaluation:</strong>
+    <p style="margin-top: 5px;">Structured the 6-slide PowerPoint presentation transcript covering Disciple-Leadership, flagship engineering projects, ethical governance, and peer review implementations. Verified completion of the official IT 497 course evaluation.</p>
+  </li>
+</ul>
+</details>
+---
+
 ## Navigation
 
 * 🏠 [Back to Home](../index.html)
