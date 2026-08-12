@@ -170,7 +170,7 @@ Designed, configured, and simulated localized and enterprise network environment
 * **Task 1:** Christlike attributes & warning signs matrix.
 * **Task 2:** Usability testing report & Capital One ethical reflection.
 * **Task 3:** Temple reflection & Disciple-Leader Systems Blueprint.
-* 🔗 <a href="../IT497-Capstone%20Project/Week_05/integration_reflection_and_design.md" target="_blank"><strong>View Full Week 5 Report</strong></a>
+* 🔗 <a href="../IT497-Capstone%20Project/Week_05/integration_reflection_and_design.html" target="_blank"><strong>View Full Week 5 Report</strong></a>
 </details>
 
 <hr>
@@ -184,7 +184,7 @@ Designed, configured, and simulated localized and enterprise network environment
 * **Task 1:** 36-month ongoing action plan & goal evolution essay.
 * **Task 2:** Comprehensive peer reviews report (Eric & Mitchell reviews; Chinenye & McSylvester feedback matrix).
 * **Task 3:** 6-slide final presentation transcript & course evaluation confirmation.
-* 🔗 <a href="../IT497-Capstone%20Project/Week_06/finalization_and_presentations.md" target="_blank"><strong>View Full Week 6 Capstone Report</strong></a>
+* 🔗 <a href="../IT497-Capstone%20Project/Week_06/finalization_and_presentations.html" target="_blank"><strong>View Full Week 6 Capstone Report</strong></a>
 </details>
 
 ---
