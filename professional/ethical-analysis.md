@@ -38,6 +38,12 @@ During a database migration and cleanup task, a database administrator (DBA) dis
 This experience reinforced that technical competence must always be paired with moral integrity. Faith in Jesus Christ teaches us to act with honesty even when no one is watching. In IT administration, maintaining high ethical standards is essential to building trust, protecting users, and upholding professional honor.
 
 ---
+## Navigation
+
+* 🏠 [Back to Home](../index.html)
+* 💻 [Back to Projects](projects.html)
+* 📄 [Proceed to Resume](resume.html)
+
 
 ## Navigation
 
