@@ -56,7 +56,7 @@ My live portfolio (`promisebeshel-hub.github.io/spiritual-professional-portfolio
 ### Overcoming Challenges & Critical Growth Reflections
 This transformational journey was not without significant technical and personal friction. Mastering complex domains—such as virtual networking transit in Azure AZ-104 or troubleshooting socket stream deadlocks during IT316 C2 script development—frequently induced frustration. At times, the pressure of balancing technical deadlines threatened to induce spiritual inertia and hurried prayer.
 
-By applying my personal warning-sign matrix, I realigned my routine. I established daily quiet hours for scripture study and prayer prior to launching terminal sessions (Nelson, 2021). Approaching complex bugs through the lens of *2 Nephi 28:30*—learning line-upon-line with patience and humility—transformed technical failures from sources of anxiety into opportunities for divine learning and refinement.
+Applying my personal warning-sign matrix helped me realign my routine. I established daily quiet hours for scripture study and prayer prior to launching terminal sessions (Nelson, 2021). Approaching complex bugs through the lens of *2 Nephi 28:30*—learning line-upon-line with patience and humility—transformed technical failures from sources of anxiety into opportunities for divine learning and refinement.
 
 ---
 
