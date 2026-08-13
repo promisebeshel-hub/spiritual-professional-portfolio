@@ -1,55 +1,61 @@
 # Welcome to My Spiritual & Professional IT Portfolio
 
-Welcome! I am **Promise Beeshel,** an Information Technology student and systems practitioner dedicated to uniting technical excellence with disciple-leadership. My work centers on database architecture, Zero Trust cloud security, automated infrastructure provisioning, and ethical IT stewardship.
+Welcome! I am **Promise Beshel**, an Information Technology student and systems practitioner dedicated to uniting technical excellence with disciple-leadership. My work centers on cloud administration, Zero Trust security, infrastructure as code (IaC), automated scripting, database architecture, and ethical IT stewardship.
 
 ---
 
 ## 🌟 Featured Flagship Deliverables
 
-### 1. Heritage Vault 2.1 — Technical Infrastructure Proposal
+### 1. Azure Technologies & AZ-104 Administrator Portfolio (IT330)
+* **Focus:** Microsoft Azure, Cloud Administration, Identity Governance, Storage Optimization, Virtual Networking.
+* **Overview:** Completed a comprehensive 4-exam practice portfolio for AZ-104 (scoring up to 85%), demonstrating mastery across Entra ID RBAC, VNet peering, Azure Policy initiatives, and cloud resource management.
+* 👉 [View Full Technical Projects Showcase](professional/projects.html#1-cloud-administration--azure-technologies-it330--az-104)
+
+### 2. Scripting for Security Operations & C2 Architectures (IT316)
+* **Focus:** Python Socket Programming, Threat Intelligence, Process Piping, Command and Control (C2) Mechanics.
+* **Overview:** Authored a 22-page research paper and engineered custom multi-threaded Python socket listeners (`custom_netcat_svr.py`) and background payload agents (`custom_netcat_cli-1.py`) with chunked Base64 file transfers.
+* 👉 [Explore Security Scripting Showcase](professional/projects.html#2-scripting-for-security-operations--c2-architectures-it316)
+
+### 3. Infrastructure as Code (IaC) & Proxmox Virtualization (IT316 Lab)
+* **Focus:** HashiCorp Terraform, Proxmox VE, Automated VM Provisioning, Linux Systems Administration.
+* **Overview:** Automated the deployment of headless Ubuntu virtual machines on a Proxmox VE hypervisor cluster using Terraform (`bpg/proxmox` provider), executing automated state workflows in under 15 seconds.
+* 👉 [View Infrastructure as Code Showcase](professional/projects.html#3-infrastructure-as-code-iac--proxmox-virtualization-it316-lab)
+
+### 4. Heritage Vault 2.1 — Technical Infrastructure Proposal (IT497)
 * **Focus:** Cloud Architecture, Zero Trust Security, Privacy-by-Design, AI Governance.
-* **Overview:** Transformed a baseline Linux repository into an enterprise-grade Zero Trust architecture for FamilySearch. Features OAuth 2.0/mTLS authentication, Cilium eBPF Kubernetes micro-segmentation, WCAG 2.2 accessibility, and Human-in-the-Loop AI record matching.
-* 👉 [View Full Proposal & Refinement Showcase](professional/projects.md#it497-capstone)
-
----
-
-### 2. Enterprise Ethical Analysis: Capital One Breach Alternative
-* **Focus:** Cloud Security Governance, DevSecOps, IAM Role Minimization.
-* **Overview:** Developed a well-reasoned, ethically sound alternative architecture in response to the 2019 Capital One data breach. Proposes automated IaC CI/CD compliance gates, Just-In-Time administrative privileges, and Zero-Trust IAM segmentation to eliminate single points of failure.
-* 👉 [Read Comprehensive Ethical Analysis](professional/ethical-analysis.md)
-
----
-
-### 3. Relational Database Architecture & T-SQL Systems (IT143)
-* **Focus:** MS SQL Server 2022, Schema Normalization, Advanced Querying.
-* **Overview:** Designed and implemented multi-table relational database structures, complex joins, views, and stored procedures built on exactness and operational integrity.
-* 👉 [Watch Lab Demonstrations & Walkthroughs](professional/projects.md#1-relational-database-development--advanced-querying-it143)
-
----
-
-### 4. Automated Database Provisioning Engine (CS104)
-* **Focus:** Python, SQLite, JSON Ingestion Pipelines.
-* **Overview:** Programmed an automated database pipeline (`createDB.py`, `insert_recs.py`, `show_records.py`) that ingests structured JSON records and executes batch database creation and validation.
-* 👉 [Explore Codebase & Pipeline Demos](professional/projects.md#2-automated-database-provisioning-engine-cs104)
+* **Overview:** Transformed a baseline repository into an enterprise-grade Zero Trust architecture for FamilySearch featuring OAuth 2.0/mTLS authentication, Cilium eBPF Kubernetes micro-segmentation, and WCAG 2.2 accessibility.
+* 👉 [View Capstone Heritage Vault Proposal](professional/projects.html#it497-capstone)
 
 ---
 
 ## 🎥 Featured Video Demonstrations
 
-<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
-  <summary style="cursor: pointer;">🎥 <strong>IT143 Database Walkthrough</strong> (Click to Play)</summary>
+<details>
+  <summary>🎬 <strong>IT330 Azure Technologies Cloud Administration Demo</strong> (Click to Play)</summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1217763802" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>IT143 SQL Server Database Design Walkthrough</strong> (Click to Play)</summary>
   <br>
   <iframe src="https://player.vimeo.com/video/1209346092" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
 
-<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
-  <summary style="cursor: pointer;">🎥 <strong>CS104 Python/SQLite Pipeline</strong> (Click to Play)</summary>
+<br>
+
+<details>
+  <summary>🎬 <strong>CS104 Python/SQLite Pipeline Automation Demo</strong> (Click to Play)</summary>
   <br>
   <iframe src="https://player.vimeo.com/video/1183551441?h=e3b38920ed" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
 
-<details style="margin-bottom: 15px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #0056b3;">
-  <summary style="cursor: pointer;">🎥 <strong>IT160 Network Infrastructure Lab</strong> (Click to Play)</summary>
+<br>
+
+<details>
+  <summary>🎬 <strong>IT160 Network Infrastructure & Routing Lab</strong> (Click to Play)</summary>
   <br>
   <iframe src="https://player.vimeo.com/video/1182783917?h=a885789a23" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
@@ -61,4 +67,5 @@ Welcome! I am **Promise Beeshel,** an Information Technology student and systems
 * 📄 [View Professional Resume](professional/resume.html)
 * 📖 [View Spiritual Guiding Principles & References](spiritual/guiding-principles.html)
 * 💻 [View Technical Projects Showcase](professional/projects.html)
+* ⚖️ [View Ethical Dilemma Analysis](professional/ethical-analysis.html)
 * 📂 [Browse All Course Folders & Academic Repositories](professional/coursework.html)
