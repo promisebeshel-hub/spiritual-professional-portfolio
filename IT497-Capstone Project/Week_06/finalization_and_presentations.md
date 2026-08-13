@@ -121,8 +121,10 @@ In conclusion, my experience completing IT 497 and refining this capstone portfo
 
 <br>
 
-### 🎬 Capstone Presentation Walkthrough
-* **Direct Video Link:** [Watch Final Presentation on Vimeo](https://vimeo.com/1218062918)
+### 🎬 Capstone Presentation & Slide Deck
+* 🎬 **Watch Video Presentation:** [Play Presentation on Vimeo](https://vimeo.com/1218062918)
+* 📥 **Download PowerPoint Slides:** [Download Slide Deck (.ppsx)](Spiritual_Progression_&_Professional_Growth_Portfolio_pbeshel.ppsx)
+
 
 <div style="margin-top: 15px; margin-bottom: 20px;">
   <iframe src="https://player.vimeo.com/video/1218062918" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
