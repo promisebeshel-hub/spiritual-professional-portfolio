@@ -6,6 +6,14 @@
 **Live Portfolio Link:** [https://promisebeshel-hub.github.io/spiritual-professional-portfolio/](https://promisebeshel-hub.github.io/spiritual-professional-portfolio/)
 
 ---
+<details>
+  <summary>🎬 <strong>Play Final Capstone Presentation (Vimeo)</strong></summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1218062918" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+---
+
 
 <!-- SECTION 1 DROPDOWN -->
 <details markdown="1">
