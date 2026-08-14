@@ -17,10 +17,10 @@ This section highlights hands-on technology projects completed throughout my deg
 Designed, deployed, and secured cloud infrastructure solutions across **Microsoft Azure**, validating competency across the entire **AZ-104: Microsoft Azure Administrator** syllabus.
 
 * **AZ-104 Practice Exam Portfolio Performance:**
-  * **Practice Exam 1:** Overall **80%** (Identities & Governance: 93%, Resource Monitoring: 90%)[span_0](start_span)[span_0](end_span)
-  * **Practice Exam 2:** Overall **80%** (Storage Management: 100%, Compute Resources: 85%)[span_1](start_span)[span_1](end_span)
-  * **Practice Exam 3:** Overall **85%** (Virtual Networking: 92%, Resource Monitoring: 89%)[span_2](start_span)[span_2](end_span)
-  * **Practice Exam 4:** Overall **85%** (Storage Management: 91%, Identities & Governance: 87%)[span_3](start_span)[span_3](end_span)
+  * **Practice Exam 1:** Overall **80%** (Identities & Governance: 93%, Resource Monitoring: 90%)
+  * **Practice Exam 2:** Overall **80%** (Storage Management: 100%, Compute Resources: 85%)
+  * **Practice Exam 3:** Overall **85%** (Virtual Networking: 92%, Resource Monitoring: 89%)
+  * **Practice Exam 4:** Overall **85%** (Storage Management: 91%, Identities & Governance: 87%)
 * **Key Deliverables:** Configured Entra ID RBAC roles, Azure Policy initiatives, VNet peering with gateway transit, Azure Storage replication/encryption, and VM scale sets.
 * **Demonstration Video:**
 
@@ -34,13 +34,13 @@ Designed, deployed, and secured cloud infrastructure solutions across **Microsof
 
 ## 2. Scripting for Security Operations & C2 Architectures (IT316)
 
-Authored a comprehensive 22-page technical analysis paper and engineered custom Python socket scripts simulating **Command and Control (C2)** client-server operations and security automation[span_4](start_span)[span_4](end_span).
+Authored a comprehensive 22-page technical analysis paper and engineered custom Python socket scripts simulating **Command and Control (C2)** client-server operations and security automation.
 
 * **Key Deliverables:**
-  * Developed multi-threaded socket listeners (`custom_netcat_svr.py`) and asynchronous background client agents (`custom_netcat_cli-1.py`) with non-blocking `stdin`/`stdout`/`stderr` stream piping[span_5](start_span)[span_5](end_span).
-  * Implemented Base64-encoded chunked file transfer functions (`upload` & `download`) with exception handling and SHA-256 hash checks[span_6](start_span)[span_6](end_span).
-  * Evaluated offensive adversary techniques (DNS tunneling, domain fronting, asynchronous beaconing with sleep jitter) and defensive threat-hunting strategies (Sysmon logs, YARA rules, Snort signatures)[span_7](start_span)[span_7](end_span).
-* **Core Competencies:** Socket Networking, Multi-threading, Process Piping, Threat Intelligence (MITRE ATT&CK Mapping), Offensive/Defensive Scripting[span_8](start_span)[span_8](end_span).
+  * Developed multi-threaded socket listeners (`custom_netcat_svr.py`) and asynchronous background client agents (`custom_netcat_cli-1.py`) with non-blocking `stdin`/`stdout`/`stderr` stream piping.
+  * Implemented Base64-encoded chunked file transfer functions (`upload` & `download`) with exception handling and SHA-256 hash checks.
+  * Evaluated offensive adversary techniques (DNS tunneling, domain fronting, asynchronous beaconing with sleep jitter) and defensive threat-hunting strategies (Sysmon logs, YARA rules, Snort signatures).
+* **Core Competencies:** Socket Networking, Multi-threading, Process Piping, Threat Intelligence (MITRE ATT&CK Mapping), Offensive/Defensive Scripting.
 
 ---
 
