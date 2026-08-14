@@ -43,15 +43,12 @@ Welcome! I am **Promise Beshel**, an Information Technology student and systems 
   <br>
   <iframe src="https://player.vimeo.com/video/1209346092" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
-
 <br>
-
 <details>
   <summary>🎬 <strong>CS104 Python/SQLite Pipeline Automation Demo</strong> (Click to Play)</summary>
   <br>
   <iframe src="https://player.vimeo.com/video/1183551441?h=e3b38920ed" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
-
 <br>
 
 <details>
