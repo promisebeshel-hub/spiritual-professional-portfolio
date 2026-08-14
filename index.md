@@ -7,18 +7,18 @@ Welcome! I am **Promise Beshel**, an Information Technology student and systems 
 ## 🌟 Featured Flagship Deliverables
 
 ### 1. Azure Technologies & AZ-104 Administrator Portfolio (IT330)
-* **Focus:** Microsoft Azure, Cloud Administration, Identity Governance, Storage Optimization, Virtual Networking[span_0](start_span)[span_0](end_span).
-* **Overview:** Completed a comprehensive 4-exam practice portfolio for AZ-104 (scoring up to 85%), demonstrating mastery across Entra ID RBAC, VNet peering, Azure Policy initiatives, and cloud resource management[span_1](start_span)[span_1](end_span).
+* **Focus:** Microsoft Azure, Cloud Administration, Identity Governance, Storage Optimization, Virtual Networking.
+* **Overview:** Completed a comprehensive 4-exam practice portfolio for AZ-104 (scoring up to 85%), demonstrating mastery across Entra ID RBAC, VNet peering, Azure Policy initiatives, and cloud resource management.
 * 👉 [View Full Technical Projects Showcase](professional/projects.html#1-cloud-administration--azure-technologies-it330--az-104)
 
 ### 2. Scripting for Security Operations & C2 Architectures (IT316)
-* **Focus:** Python Socket Programming, Threat Intelligence, Process Piping, Command and Control (C2) Mechanics[span_2](start_span)[span_2](end_span).
-* **Overview:** Authored a 22-page research paper and engineered custom multi-threaded Python socket listeners (`custom_netcat_svr.py`) and background payload agents (`custom_netcat_cli-1.py`) with chunked Base64 file transfers[span_3](start_span)[span_3](end_span).
+* **Focus:** Python Socket Programming, Threat Intelligence, Process Piping, Command and Control (C2) Mechanics.
+* **Overview:** Authored a 22-page research paper and engineered custom multi-threaded Python socket listeners (`custom_netcat_svr.py`) and background payload agents (`custom_netcat_cli-1.py`) with chunked Base64 file transfers.
 * 👉 [Explore Security Scripting Showcase](professional/projects.html#2-scripting-for-security-operations--c2-architectures-it316)
 
 ### 3. Infrastructure as Code (IaC) & Proxmox Virtualization (IT316 Lab)
-* **Focus:** HashiCorp Terraform, Proxmox VE, Automated VM Provisioning, Linux Systems Administration[span_4](start_span)[span_4](end_span).
-* **Overview:** Automated the deployment of headless Ubuntu virtual machines on a Proxmox VE hypervisor cluster using Terraform (`bpg/proxmox` provider), executing automated state workflows in under 15 seconds[span_5](start_span)[span_5](end_span).
+* **Focus:** HashiCorp Terraform, Proxmox VE, Automated VM Provisioning, Linux Systems Administration.
+* **Overview:** Automated the deployment of headless Ubuntu virtual machines on a Proxmox VE hypervisor cluster using Terraform (`bpg/proxmox` provider), executing automated state workflows in under 15 seconds.
 * 👉 [View Infrastructure as Code Showcase](professional/projects.html#3-infrastructure-as-code-iac--proxmox-virtualization-it316-lab)
 
 ### 4. Heritage Vault 2.1 — Technical Infrastructure Proposal (IT497)
