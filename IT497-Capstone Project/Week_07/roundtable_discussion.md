@@ -13,7 +13,7 @@
 
 <br>
 
-![Roundtable Video Call](roundtable_call.png)
+![Roundtable Video Call](roundtable_call.jpg)
 
 </details>
 
