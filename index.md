@@ -4,7 +4,7 @@ Welcome! I am **Promise Beshel**, an Information Technology student and systems 
 
 ---
 
-## 🌟 Featured Flagship Deliverables
+## Featured Flagship Deliverables
 
 ### 1. Azure Technologies & AZ-104 Administrator Portfolio (IT330)
 * **Focus:** Microsoft Azure, Cloud Administration, Identity Governance, Storage Optimization, Virtual Networking.
@@ -29,14 +29,6 @@ Welcome! I am **Promise Beshel**, an Information Technology student and systems 
 ---
 
 ## 🎥 Featured Video Demonstrations
-
-<details>
-  <summary>🎬 <strong>IT497 Capstone Final Presentation Walkthrough</strong> (Click to Play)</summary>
-  <br>
-  <iframe src="https://player.vimeo.com/video/1218062918" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
-</details>
-
-<br>
 
 <details>
   <summary>🎬 <strong>IT330 Azure Technologies Cloud Administration Demo</strong> (Click to Play)</summary>
@@ -66,6 +58,14 @@ Welcome! I am **Promise Beshel**, an Information Technology student and systems 
   <summary>🎬 <strong>IT160 Network Infrastructure & Routing Lab</strong> (Click to Play)</summary>
   <br>
   <iframe src="https://player.vimeo.com/video/1182783917?h=a885789a23" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
+</details>
+
+<br>
+
+<details>
+  <summary>🎬 <strong>IT497 Capstone Final Presentation Walkthrough</strong> (Click to Play)</summary>
+  <br>
+  <iframe src="https://player.vimeo.com/video/1218062918" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="max-width: 640px; border-radius: 5px; border: 1px solid #ccc;"></iframe>
 </details>
 
 ---
