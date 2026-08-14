@@ -1,4 +1,8 @@
- # Technical Projects & Coursework Showcase
+<div style="margin-bottom: 20px;">
+  <a href="../index.html" style="text-decoration: none; font-weight: bold; background: #21262d; color: #58a6ff; padding: 8px 14px; border-radius: 6px; border: 1px solid #30363d; display: inline-block;">⬅️ Back to Home</a>
+</div>
+
+# Technical Projects & Coursework Showcase
 
 ---
 
@@ -13,10 +17,10 @@ This section highlights hands-on technology projects completed throughout my deg
 Designed, deployed, and secured cloud infrastructure solutions across **Microsoft Azure**, validating competency across the entire **AZ-104: Microsoft Azure Administrator** syllabus.
 
 * **AZ-104 Practice Exam Portfolio Performance:**
-  * **Practice Exam 1:** Overall **80%** (Identities & Governance: 93%, Resource Monitoring: 90%)
-  * **Practice Exam 2:** Overall **80%** (Storage Management: 100%, Compute Resources: 85%)
-  * **Practice Exam 3:** Overall **85%** (Virtual Networking: 92%, Resource Monitoring: 89%)
-  * **Practice Exam 4:** Overall **85%** (Storage Management: 91%, Identities & Governance: 87%)
+  * **Practice Exam 1:** Overall **80%** (Identities & Governance: 93%, Resource Monitoring: 90%)[span_0](start_span)[span_0](end_span)
+  * **Practice Exam 2:** Overall **80%** (Storage Management: 100%, Compute Resources: 85%)[span_1](start_span)[span_1](end_span)
+  * **Practice Exam 3:** Overall **85%** (Virtual Networking: 92%, Resource Monitoring: 89%)[span_2](start_span)[span_2](end_span)
+  * **Practice Exam 4:** Overall **85%** (Storage Management: 91%, Identities & Governance: 87%)[span_3](start_span)[span_3](end_span)
 * **Key Deliverables:** Configured Entra ID RBAC roles, Azure Policy initiatives, VNet peering with gateway transit, Azure Storage replication/encryption, and VM scale sets.
 * **Demonstration Video:**
 
@@ -30,13 +34,13 @@ Designed, deployed, and secured cloud infrastructure solutions across **Microsof
 
 ## 2. Scripting for Security Operations & C2 Architectures (IT316)
 
-Authored a comprehensive 22-page technical analysis paper and engineered custom Python socket scripts simulating **Command and Control (C2)** client-server operations and security automation.
+Authored a comprehensive 22-page technical analysis paper and engineered custom Python socket scripts simulating **Command and Control (C2)** client-server operations and security automation[span_4](start_span)[span_4](end_span).
 
 * **Key Deliverables:**
-  * Developed multi-threaded socket listeners (`custom_netcat_svr.py`) and asynchronous background client agents (`custom_netcat_cli-1.py`) with non-blocking `stdin`/`stdout`/`stderr` stream piping.
-  * Implemented Base64-encoded chunked file transfer functions (`upload` & `download`) with exception handling and SHA-256 hash checks.
-  * Evaluated offensive adversary techniques (DNS tunneling, domain fronting, asynchronous beaconing with sleep jitter) and defensive threat-hunting strategies (Sysmon logs, YARA rules, Snort signatures).
-* **Core Competencies:** Socket Networking, Multi-threading, Process Piping, Threat Intelligence (MITRE ATT&CK Mapping), Offensive/Defensive Scripting.
+  * Developed multi-threaded socket listeners (`custom_netcat_svr.py`) and asynchronous background client agents (`custom_netcat_cli-1.py`) with non-blocking `stdin`/`stdout`/`stderr` stream piping[span_5](start_span)[span_5](end_span).
+  * Implemented Base64-encoded chunked file transfer functions (`upload` & `download`) with exception handling and SHA-256 hash checks[span_6](start_span)[span_6](end_span).
+  * Evaluated offensive adversary techniques (DNS tunneling, domain fronting, asynchronous beaconing with sleep jitter) and defensive threat-hunting strategies (Sysmon logs, YARA rules, Snort signatures)[span_7](start_span)[span_7](end_span).
+* **Core Competencies:** Socket Networking, Multi-threading, Process Piping, Threat Intelligence (MITRE ATT&CK Mapping), Offensive/Defensive Scripting[span_8](start_span)[span_8](end_span).
 
 ---
 
@@ -106,7 +110,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 ---
 
-<h2 id="it497-capstone">IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
+<h2 id="it497-capstone">🎓 IT 497 — Capstone Project Deliverables & Weekly Progress</h2>
 
 <!-- WEEK 1 -->
 <details id="week-1" markdown="1">
@@ -116,7 +120,7 @@ Designed, configured, and simulated localized and enterprise network environment
 
 * **Step 1 — Task 1:** SMART goals & intro reflection video.
 * **Step 2 — Task 2:** Guiding principles baseline (Integrity, Continuous Revelation, Servant Leadership).
-* **Step 3 — Task 3:** Portfolio setup.
+* **Step 3 — Task 3:** Portfolio repository deployment.
 </details>
 
 <hr>
@@ -183,14 +187,30 @@ Designed, configured, and simulated localized and enterprise network environment
 
 * **Task 1:** 36-month ongoing action plan & goal evolution essay.
 * **Task 2:** Comprehensive peer reviews report (Eric & Mitchell reviews; Chinenye & McSylvester feedback matrix).
-* **Task 3:** 6-slide final presentation transcript & course evaluation confirmation.
+* **Task 3:** 6-slide final presentation transcript, slide download, and Vimeo presentation link.
 * 🔗 <a href="../IT497-Capstone%20Project/Week_06/finalization_and_presentations.html" target="_blank"><strong>View Full Week 6 Capstone Report</strong></a>
+</details>
+
+<hr>
+
+<!-- WEEK 7 -->
+<details id="week-7" markdown="1">
+<summary style="cursor: pointer;"><strong>🗓️ Week 7: Return & Report and Community Reflection (Click to Expand)</strong></summary>
+
+<br>
+
+* **Task 1:** Postcourse return & report evaluating initial goals against final milestones.
+* **Task 2:** Handwritten future aspirations submission.
+* **Task 3:** Group 7 Roundtable community discussion with peer Eze Eze Okoro.
+* 🔗 <a href="../IT497-Capstone%20Project/Week_07/return_and_report.html" target="_blank"><strong>View Full Week 7 Return & Report Page</strong></a>
+* 🔗 <a href="../IT497-Capstone%20Project/Week_07/roundtable_discussion.html" target="_blank"><strong>View Week 7 Roundtable Discussion Summary</strong></a>
 </details>
 
 ---
 
-## Navigation
+## 🧭 Navigation
 
-* 🏠 [Back to Home](../index.html)
+* ⬅️ [Back to Home](../index.html)
+* 📄 [View Professional Resume](resume.html)
 * ⚖️ [Proceed to Ethical Analysis](ethical-analysis.html)
-* 🙏 [Spiritual Portfolio](../spiritual/guiding-principles.html)
+* 🙏 [Spiritual Guiding Principles](../spiritual/guiding-principles.html)
