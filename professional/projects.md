@@ -1,5 +1,5 @@
 <div style="margin-bottom: 20px;">
-  <a href="../index.html" style="text-decoration: none; font-weight: bold; background: #21262d; color: #58a6ff; padding: 8px 14px; border-radius: 6px; border: 1px solid #30363d; display: inline-block;">⬅️ Back to Home</a>
+  <a href="javascript:history.back()" style="text-decoration: none; font-weight: bold; background: #21262d; color: #58a6ff; padding: 8px 14px; border-radius: 6px; border: 1px solid #30363d; display: inline-block; cursor: pointer;">⬅️ Back to Previous Page</a>
 </div>
 
 # Technical Projects & Coursework Showcase
