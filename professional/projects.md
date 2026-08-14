@@ -193,17 +193,34 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <hr>
 
-<!-- WEEK 7 -->
+<hr>
+
+<!-- WEEK 7 DROPDOWN -->
 <details id="week-7" markdown="1">
 <summary style="cursor: pointer;"><strong>🗓️ Week 7: Return & Report and Community Reflection (Click to Expand)</strong></summary>
 
 <br>
 
-* **Task 1:** Postcourse return & report evaluating initial goals against final milestones.
-* **Task 2:** Handwritten future aspirations submission.
-* **Task 3:** Group 7 Roundtable community discussion with peer Eze Eze Okoro.
+<ul style="line-height: 1.8;">
+  <li>
+    <strong>Task 1 — Postcourse Return & Report:</strong>
+    <p style="margin-top: 5px;">Assessed initial Capstone goals against final outcomes (AZ-104 85% milestones, IT316 C2 analysis, and Proxmox/Terraform IaC automation).</p>
+    <p>🔗 <a href="../IT497-Capstone%20Project/Week_07/return_and_report.html"><strong>View Return & Report Assessment</strong></a></p>
+  </li>
+  <li>
+    <strong>Task 2 — Future Aspirations:</strong>
+    <p style="margin-top: 5px;">Authored a handwritten reflective submission articulating long-term disciple-leadership and covenant stewardship in cloud security.</p>
+  </li>
+  <li>
+    <strong>Task 3 — Roundtable Community Discussion:</strong>
+    <p style="margin-top: 5px;">Participated in Group 7 roundtable reflection with peer Eze Eze Okoro, synthesizing collaborative feedback on portfolio architecture and technical stewardship.</p>
+    <p>🔗 <a href="../IT497-Capstone%20Project/Week_07/roundtable_discussion.html"><strong>View Roundtable Summary & Screenshot</strong></a></p>
+  </li>
+</ul>
+</details>
+
 * 🔗 <a href="../IT497-Capstone%20Project/Week_07/return_and_report.html" target="_blank"><strong>View Full Week 7 Return & Report Page</strong></a>
-* 🔗 <a href="../IT497-Capstone%20Project/Week_07/roundtable_discussion.html" target="_blank"><strong>View Week 7 Roundtable Discussion Summary</strong></a>
+
 </details>
 
 ---
