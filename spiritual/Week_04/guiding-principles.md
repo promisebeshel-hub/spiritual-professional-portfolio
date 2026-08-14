@@ -1,3 +1,8 @@
+<div style="margin-bottom: 20px;">
+  <a href="javascript:history.back()" style="text-decoration: none; font-weight: bold; background: #21262d; color: #58a6ff; padding: 8px 14px; border-radius: 6px; border: 1px solid #30363d; display: inline-block; cursor: pointer;">⬅️ Back to Previous Page</a>
+</div>
+
+
 ## Compiled Scriptural & Prophetic References (APA 7th Edition)
 
 1. **Bednar, D. A.** (2010, November). *Receive the Holy Ghost*. *Ensign*. The Church of Jesus Christ of Latter-day Saints. https://www.churchofjesuschrist.org/study/general-conference/2010/10/receive-the-holy-ghost
