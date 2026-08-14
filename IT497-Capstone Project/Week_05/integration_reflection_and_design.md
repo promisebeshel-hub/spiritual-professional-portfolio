@@ -101,3 +101,12 @@ During quiet reflection and temple attendance, I pondered Elder David A. Bednar'
 
 * The Book of Mormon. (1981c). *Mosiah 2:17*. The Church of Jesus Christ of Latter-day Saints.
 
+---
+
+## 🏠 Navigation
+
+* 🏠 [Back to Home](../../index.html)
+* 📊 [Return & Report Assessment](return_and_report.html)
+* 💻 [Technical Projects Showcase](../../professional/projects.html)
+* 📖 [Spiritual Guiding Principles](../../spiritual/guiding-principles.html)
+* 
