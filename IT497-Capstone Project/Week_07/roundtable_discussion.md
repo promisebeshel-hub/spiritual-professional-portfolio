@@ -45,8 +45,12 @@ During the Week 7 Roundtable session, I met with **Eze Eze Okoro** via video con
 
 <br>
 
-* **Spiritual Portfolio Feedback:** Commended Eze on his well-organized, sincere portfolio structure[span_0](start_span)[span_0](end_span). Emphasized that his greatest strength is presenting technical development and spiritual growth as complementary rather than separate journeys[span_1](start_span)[span_1](end_span). Praised how his conclusion reinforced that professional success rests on integrity, accountability, service, and lifelong learning[span_2](start_span)[span_2](end_span).
-* **Professional Portfolio Feedback:** Highlighted his clear career trajectory moving from Systems Administration toward Cloud Engineering and Cloud Architecture[span_3](start_span)[span_3](end_span). Pointed out that incorporating real-world troubleshooting (such as his live broadcast mixer replacement) made his technical problem-solving narrative credible and compelling[span_4](start_span)[span_4](end_span).
+* **Spiritual Portfolio Feedback:** Commended Eze on his well-organized, sincere portfolio structure. Emphasized that his greatest strength is presenting technical development and spiritual growth as complementary rather than separate journeys. Praised how his conclusion reinforced that professional success rests on integrity, accountability, service, and lifelong learning.
+* **Professional Portfolio Feedback:** Highlighted his clear career trajectory moving from Systems Administration toward Cloud Engineering and Cloud Architecture. Pointed out that incorporating real-world troubleshooting (such as his live broadcast mixer replacement) made his technical problem-solving narrative credible and compelling.
+* **Area to be Improved On:**
+While the live broadcast audio troubleshooting scenario provides a compelling demonstration of problem-solving under pressure, the technical projects section would be significantly strengthened by adding specific project artifacts, architecture diagrams, or GitHub repository links for his cloud and automation work. Adding measurable performance metrics or detailing specific tools and scripts used (e.g., Bash, Python, AWS/Azure services, or IaC configurations) will make his transition narrative toward Cloud Engineering and Cloud Architecture even more concrete to prospective employers.
+* **Question for Eze:**
+So I asked him: *"As you transition from Systems Administration toward Cloud Architecture, what specific cloud platform (such as Azure or AWS) and automation tools are you focusing on first, and how do you plan to showcase a hands-on architectural project in your portfolio to demonstrate that readiness?"*
 
 </details>
 
