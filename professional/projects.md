@@ -219,10 +219,6 @@ Designed, configured, and simulated localized and enterprise network environment
 </ul>
 </details>
 
-* 🔗 <a href="../IT497-Capstone%20Project/Week_07/return_and_report.html" target="_blank"><strong>View Full Week 7 Return & Report Page</strong></a>
-
-</details>
-
 ---
 
 ## 🧭 Navigation
