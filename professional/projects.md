@@ -193,8 +193,6 @@ Designed, configured, and simulated localized and enterprise network environment
 
 <hr>
 
-<hr>
-
 <!-- WEEK 7 DROPDOWN -->
 <details id="week-7" markdown="1">
 <summary style="cursor: pointer;"><strong>🗓️ Week 7: Return & Report and Community Reflection (Click to Expand)</strong></summary>
